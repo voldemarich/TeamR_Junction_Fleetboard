@@ -1,0 +1,2177 @@
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.51, 1007.23]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.287109375, 0.011962890625, -1.109619140625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-62.52454212454212, 61.774847374847376, -285.1838827838828]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.2479248046875, -31.05926513671875, -0.54168701171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 2.81}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 14.5]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.5, 1007.19]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.053466796875, 0.15771484375, -0.941162109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.06617826617827, 70.02148962148962, -276.6373626373626]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-9.48333740234375, 8.17108154296875, 0.5035400390625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.5, 1007.25]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.35107421875, 0.16357421875, -0.8671875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-64.17387057387057, 59.825641025641026, -287.13308913308913]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.79779052734375, 13.38958740234375, -4.57000732421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.37}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.5, 1007.18]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.14306640625, 0.052001953125, -0.8916015625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.22344322344323, 64.77362637362637, -290.88156288156284]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.99017333984375, -14.5721435546875, -4.913330078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.37}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.5, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.229248046875, 0.06005859375, -1.05615234375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.22344322344323, 61.624908424908426, -287.8827838827839]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.41961669921875, -17.55523681640625, -6.2103271484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.49, 1007.25]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.20849609375, 0.06640625, -1.030029296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-63.42417582417582, 61.624908424908426, -287.43296703296704]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.39886474609375, 13.05389404296875, -6.317138671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.5, 1007.22]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.138671875, -0.018798828125, -0.846923828125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-60.57533577533577, 60.425396825396824, -296.42930402930403]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.08062744140625, 31.74591064453125, -7.01904296875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.62}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.49, 1007.23]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.60498046875, 0.01806640625, -1.267333984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 62.97435897435897, -295.6796092796093]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-1.922607421875, -15.7470703125, -7.3699951171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.5, 1007.22]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.239990234375, -0.241943359375, -1.166748046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-61.774847374847376, 61.774847374847376, -308.574358974359]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [14.739990234375, 9.74273681640625, -45.63140869140625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1007.25]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.137939453125, -0.029052734375, -0.944091796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-80.66715506715506, 63.873992673992674, -295.5296703296703]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.0048828125, -8.79669189453125, -9.9334716796875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 13.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.49, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.235595703125, -0.058349609375, -0.981689453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-75.26935286935287, 69.27179487179487, -303.4764346764347]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.57708740234375, -4.302978515625, -6.3323974609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 13.90625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1007.23]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.255859375, -0.0615234375, -1.02197265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-75.26935286935287, 68.82197802197803, -304.8258852258852]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.98199462890625, -11.42120361328125, -4.8980712890625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.143310546875, -0.0166015625, -0.9130859375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-76.16898656898657, 67.32258852258852, -303.3264957264957]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.13348388671875, 5.9814453125, -5.889892578125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1007.23]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.20654296875, 0.02490234375, -0.972900390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-75.56923076923077, 67.62246642246642, -306.0253968253968]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.593994140625, -12.115478515625, -5.65338134765625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.65625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2724609375, 0.03662109375, -1.074462890625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-76.61880341880341, 67.62246642246642, -304.37606837606836]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.47735595703125, -2.66265869140625, -4.89044189453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.46875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.47, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.162109375, -0.025390625, -0.9609375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-75.26935286935287, 68.52210012210011, -304.22612942612943]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.0975341796875, -11.23809814453125, -1.2054443359375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.040771484375, 0.0458984375, -0.998046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-77.66837606837606, 64.02393162393162, -294.3301587301587]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.8299560546875, -0.67901611328125, -6.38580322265625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.47, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.21484375, -0.0390625, -1.038818359375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-71.97069597069597, 56.526984126984125, -301.2273504273504]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.2958984375, -12.55035400390625, -4.33349609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.22998046875, 0.081787109375, -0.9248046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-71.22100122100122, 60.425396825396824, -298.5284493284493]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.99505615234375, 11.0015869140625, -11.39068603515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.33}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.18310546875, -0.01708984375, -0.988037109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-80.21733821733821, 75.71916971916971, -297.62881562881563]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.7149658203125, -2.38037109375, -5.74493408203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.20751953125, -0.01708984375, -0.983154296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-81.86666666666666, 72.57045177045177, -307.3748473748474]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.1585693359375, 4.669189453125, -5.767822265625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 13.78125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1007.21]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.246826171875, -0.066650390625, -1.01513671875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.91623931623931, 69.12185592185592, -309.9238095238095]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.1094970703125, 3.60870361328125, -8.056640625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.191162109375, -0.02001953125, -0.981689453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.61636141636141, 67.62246642246642, -310.5235653235653]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.9580078125, 2.5787353515625, -6.9122314453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.146484375, -0.04931640625, -1.03662109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.87155067155066, 61.624908424908426, -320.1196581196581]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.35748291015625, -8.7432861328125, -4.55474853515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 13.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.839111328125, -0.08251953125, -1.095458984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.4156288156288, 77.21855921855922, -342.9103785103785]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-2.0294189453125, -40.35186767578125, -17.20428466796875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 13.6875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.138916015625, -0.138916015625, -0.973388671875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.66593406593407, 67.62246642246642, -307.07496947496946]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.10406494140625, 8.026123046875, -7.88116455078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 13.90625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1007.22]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.236083984375, -0.05224609375, -0.961669921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-81.71672771672772, 67.77240537240537, -306.6251526251526]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.42449951171875, 3.60107421875, -7.293701171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 13.78125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2587890625, -0.023681640625, -1.053466796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.51599511599511, 65.67326007326007, -306.1753357753358]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.31878662109375, -12.99285888671875, -6.06536865234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 13.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.44, 1007.34]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.150390625, -0.00244140625, -0.966064453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-77.66837606837606, 64.77362637362637, -309.17411477411474]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.3193359375, -30.35736083984375, -5.62286376953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 12.125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.201171875, -0.396240234375, -1.2919921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.12185592185592, 69.72161172161172, -335.413431013431]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-6.6680908203125, 1.04522705078125, 0.34332275390625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 13.59375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1007.23]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.069580078125, 0.041259765625, -0.980224609375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-78.56800976800976, 57.42661782661782, -316.2212454212454]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.5836181640625, 25.1312255859375, -1.8463134765625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 13.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.47, 1007.2]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.423095703125, 0.17138671875, -1.07177734375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.42173382173382, 80.06739926739927, -298.8283272283272]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.78961181640625, 13.48876953125, -2.86102294921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 13.46875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.47, 1007.22]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.4306640625, -0.0146484375, -0.720947265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-72.42051282051281, 70.02148962148962, -300.32771672771673]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.38360595703125, 10.58197021484375, -12.0849609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.65}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.09326171875, 0.05322265625, -1.102294921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-64.62368742368741, 41.08327228327228, -357.9042735042735]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.01251220703125, 2.899169921875, -5.47027587890625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.89}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 13.59375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1007.22]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.236328125, 0.11669921875, -1.019775390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-77.06862026862026, 58.92600732600732, -295.22979242979244]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.52423095703125, -22.65167236328125, -4.11224365234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.7}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.46875, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.49, 1007.23]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.186279296875, -0.039306640625, -1.009521484375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-76.76874236874237, 66.42295482295482, -297.62881562881563]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.52423095703125, -20.660400390625, -8.5906982421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.85}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.46875, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.49, 1007.2]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.267333984375, -0.00439453125, -1.008056640625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-79.46764346764347, 63.27423687423687, -301.97704517704517]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.16619873046875, -17.70782470703125, -5.77545166015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.62}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.46875, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.5, 1007.22]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1630859375, -0.01171875, -0.951171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-81.11697191697192, 61.624908424908426, -300.9274725274725]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.79833984375, -5.2490234375, -5.88226318359375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.7}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.46875, 14.125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.5, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1728515625, 0.056640625, -0.940673828125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-81.71672771672772, 64.62368742368741, -302.1269841269841]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.6937255859375, -9.735107421875, -5.86700439453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.77}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.46875, 14.5]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.5, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.215576171875, 0.04345703125, -1.06884765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-79.91746031746031, 64.62368742368741, -301.0774114774115]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.99560546875, 9.74273681640625, -3.88336181640625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.62}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.5, 14.125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.51, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.15185546875, -0.061279296875, -0.953857421875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-79.91746031746031, 64.17387057387057, -301.82710622710624]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.60162353515625, -11.29913330078125, -6.78253173828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.77}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.5, 14.40625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.5, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.203857421875, 0.00390625, -0.970947265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-81.11697191697192, 62.224664224664224, -301.52722832722833]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.95147705078125, -4.75311279296875, -6.6375732421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.77}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.5, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.52, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.207275390625, -0.145751953125, -0.966064453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-79.91746031746031, 63.57411477411477, -300.7775335775336]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.20977783203125, 1.99127197265625, -4.1656494140625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.77}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.5, 14.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.52, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.180908203125, 0.042724609375, -0.994873046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-81.11697191697192, 63.27423687423687, -300.9274725274725]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.387451171875, -19.03533935546875, -4.8675537109375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.62}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.5, 14.40625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.51, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.17138671875, -0.733642578125, -1.1953125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 63.873992673992674, -318.62026862026863]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [35.7513427734375, 239.80712890625, 16.96014404296875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.46875, 14.6875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.52, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.252197265625, -0.54638671875, -1.8447265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 65.07350427350427, -317.42075702075704]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [17.08221435546875, 32.3638916015625, -35.33172607421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.46875, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.51, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.574462890625, -0.2890625, -0.203369140625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-70.77118437118438, 76.01904761904761, -347.25860805860805]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.45501708984375, -9.95635986328125, -15.95306396484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.89}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 14.59375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.51, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.14013671875, -0.690673828125, -0.33203125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-53.37826617826617, 72.87032967032967, -320.7194139194139]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.810302734375, -21.55303955078125, 0.9613037109375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 2.0100000000000002}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 14.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.51, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.34619140625, 0.12353515625, -1.35498046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-70.47130647130646, 74.81953601953602, -307.3748473748474]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-14.62554931640625, -12.21466064453125, -10.5438232421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 2.9}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 16.375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.49, 1007.22]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.4599609375, 0.08935546875, -1.06689453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-44.23199023199023, 60.425396825396824, -307.07496947496946]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [16.80755615234375, -7.171630859375, -5.645751953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 8.03}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 17.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.49, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.261962890625, -0.05224609375, -0.8935546875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-73.32014652014652, 46.48107448107448, -285.78363858363855]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.09808349609375, -21.514892578125, -8.97216796875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 6.19}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 13.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.49, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2939453125, -0.217529296875, -0.97216796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-49.179975579975576, 73.32014652014652, -285.3338217338217]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.15802001953125, -19.622802734375, -4.8370361328125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 4.66}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 13.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1007.2]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.188720703125, 0.03515625, -0.982666015625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-42.13284493284493, 71.22100122100122, -282.9347985347985]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.12420654296875, -33.050537109375, -9.69696044921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 4.83}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.05517578125, -0.371826171875, -0.605224609375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.56556776556776, 80.36727716727717, -278.7365079365079]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-11.8255615234375, -175.262451171875, -32.958984375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 2.34}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2861328125, 0.407470703125, -0.93701171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.52332112332113, 67.92234432234432, -295.37973137973137]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.59344482421875, -29.99114990234375, -13.0462646484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.85}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 14.34375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.47, 1007.21]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0791015625, 0.25048828125, -1.381591796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.81587301587301, 72.12063492063491, -364.05177045177044]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-0.06866455078125, 113.616943359375, -12.5732421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.65}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 14.5625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0615234375, 0.1943359375, -0.5322265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-64.17387057387057, 62.224664224664224, -292.9807081807082]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [13.11492919921875, -29.94537353515625, -41.14532470703125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 13.78125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.272705078125, -0.01513671875, -0.898193359375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-80.81709401709402, 66.27301587301586, -298.5284493284493]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [18.95904541015625, -54.99267578125, -33.62274169921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.69}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 14.75]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.422119140625, 0.231689453125, -1.281005859375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-63.724053724053725, 67.62246642246642, -333.6141636141636]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.0577392578125, -37.65106201171875, -75.1800537109375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 15.375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.44, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.36669921875, 0.031005859375, -1.097900390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-51.57899877899878, 76.01904761904761, -324.16800976800977]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [17.82989501953125, -6.7596435546875, -47.24884033203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 4.66}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.3125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.371337890625, 0.125, -1.06298828125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-52.778510378510376, 78.71794871794872, -307.07496947496946]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [23.284912109375, -21.69036865234375, -14.2364501953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 8.370000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.43, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.01806640625, 0.04931640625, -0.94091796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-50.979242979242976, 78.41807081807082, -300.6275946275946]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.173828125, -15.26641845703125, -23.93341064453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 29.04}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.6875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.43, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.40625, 0.408447265625, -0.913818359375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-24.739926739926737, 77.21855921855922, -285.03394383394385]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [36.0565185546875, 25.94757080078125, -33.01239013671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 50.300000000000004}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.41, 1007.17]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2939453125, 0.002685546875, -0.869384765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-35.23565323565323, 63.873992673992674, -282.7848595848596]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [18.7225341796875, 16.09039306640625, -7.7362060546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 5.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.41, 1007.19]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.053955078125, -0.61376953125, -0.970458984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-50.829304029304026, 65.67326007326007, -288.63247863247864]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.55419921875, -18.768310546875, -0.6866455078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.37}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.65625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.39, 1007.21]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.010986328125, -0.2275390625, -1.014404296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.57167277167277, 63.12429792429792, -283.53455433455434]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [18.10455322265625, 28.98406982421875, -3.89862060546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.41, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.162841796875, 0.05517578125, -0.94482421875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.57167277167277, 62.82442002442002, -288.63247863247864]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.791259765625, -6.15692138671875, -6.29425048828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.41000000000000003}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.39, 1007.2]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19970703125, 0.00048828125, -0.981201171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.12185592185592, 64.47374847374847, -291.33137973137974]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.45556640625, -5.0811767578125, -3.68499755859375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.49}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.39, 1007.23]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.205322265625, 0.086669921875, -0.999755859375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.12307692307692, 64.92356532356533, -286.23345543345545]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.17926025390625, 3.082275390625, -8.93402099609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.49}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 13.84375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.26513671875, -0.0029296875, -1.029296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.37216117216117, 64.47374847374847, -287.13308913308913]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.36944580078125, 5.1116943359375, -7.80487060546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.49}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.37, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2021484375, -0.021240234375, -0.939453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.62246642246642, 63.724053724053725, -286.8332112332112]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.8441162109375, 3.76129150390625, -4.60052490234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.36, 1007.22]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.16162109375, 0.03662109375, -1.013916015625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.27301587301586, 66.57289377289376, -285.03394383394385]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.8828125, 2.89154052734375, -6.11114501953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.37, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.254150390625, 0.047119140625, -0.968017578125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.67326007326007, 65.97313797313797, -285.1838827838828]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.33294677734375, -15.92254638671875, -6.77490234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 13.90625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.36, 1007.23]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.239013671875, 0.027099609375, -0.984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.97313797313797, 65.52332112332113, -284.434188034188]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.97161865234375, 6.2408447265625, -9.1094970703125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.65}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 14.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.36, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.16162109375, -0.04736328125, -0.960205078125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.92234432234432, 66.42295482295482, -284.58412698412695]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.9967041015625, -5.91278076171875, -7.8582763671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.65}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 14.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.36, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.255859375, -0.0009765625, -0.97119140625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.27301587301586, 66.57289377289376, -284.73406593406594]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.7078857421875, -16.9219970703125, -7.74383544921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 14.6875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.35, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2529296875, -0.029052734375, -1.004150390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 66.27301587301586, -284.434188034188]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.20269775390625, -4.6234130859375, -7.62939453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 14.625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.34, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2099609375, 0.0751953125, -1.006591796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.27301587301586, 64.47374847374847, -282.6349206349206]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.6610107421875, 8.76617431640625, -7.48443603515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.65}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.21875, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.34, 1007.2]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.193115234375, -0.015869140625, -1.01416015625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.12307692307692, 65.67326007326007, -283.53455433455434]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.14056396484375, 4.9896240234375, -6.06536865234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.49}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.21875, 14.375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.34, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1708984375, 0.06591796875, -0.967041015625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 67.32258852258852, -283.38461538461536]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.09588623046875, 4.0740966796875, -8.1634521484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.65}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.21875, 14.3125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.33, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.3056640625, 0.076416015625, -1.0]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.27179487179487, 67.77240537240537, -285.6336996336996]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.04302978515625, -12.75634765625, -6.4849853515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.1875, 14.5625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.33, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.203125, 0.03759765625, -0.986328125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 65.82319902319902, -282.9347985347985]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.791259765625, -7.14111328125, -6.5765380859375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.73}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.1875, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.31, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.17041015625, 0.02978515625, -0.95361328125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.52332112332113, 65.82319902319902, -282.9347985347985]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.532958984375, -11.7034912109375, -4.23431396484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.1875, 14.34375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.32, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.18701171875, 0.052734375, -1.0361328125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.67326007326007, 67.77240537240537, -281.7352869352869]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.195068359375, -2.38037109375, -4.8828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.32, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.165771484375, 0.084228515625, -0.940185546875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.82197802197803, 63.724053724053725, -289.83199023199023]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.7220458984375, -5.2947998046875, -5.7830810546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.31, 1007.36]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.283447265625, 0.05712890625, -0.99072265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 64.92356532356533, -287.58290598290597]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.81304931640625, 3.73077392578125, -6.62994384765625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.29, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.320068359375, 0.02197265625, -1.07177734375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.42295482295482, 65.67326007326007, -286.9831501831502]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.2735595703125, -3.74603271484375, -7.74383544921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.32, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.15966796875, 0.033447265625, -0.988037109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.32258852258852, 66.27301587301586, -287.13308913308913]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.44793701171875, -8.6212158203125, -7.08770751953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.29, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.192626953125, -0.01318359375, -0.978515625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 65.37338217338217, -286.9831501831502]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.24139404296875, -11.84844970703125, -6.34002685546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.29, 1007.25]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.24560546875, 0.07080078125, -0.964599609375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.42173382173382, 66.27301587301586, -291.6312576312576]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.1280517578125, -14.5111083984375, -5.2490234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 13.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.29, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.287841796875, 0.042724609375, -1.02685546875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.22222222222221, 64.92356532356533, -286.9831501831502]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.32476806640625, 0.29754638671875, -6.28662109375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.28, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.176513671875, -0.06201171875, -0.961669921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.52210012210011, 66.72283272283272, -285.93357753357753]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.89862060546875, -2.55584716796875, -5.7220458984375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.28, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1845703125, 0.02978515625, -0.97998046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.52332112332113, 67.92234432234432, -285.3338217338217]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.401611328125, -3.5400390625, -3.4942626953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.29, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.207275390625, -0.023193359375, -1.008056640625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.32258852258852, 66.87277167277168, -285.78363858363855]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.5623779296875, -3.0517578125, -5.9356689453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.28, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.25, 0.051025390625, -1.001953125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 68.67203907203907, -285.78363858363855]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.43157958984375, 1.8310546875, -6.1492919921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.27, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.13134765625, 0.031982421875, -0.93359375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.57289377289376, 64.47374847374847, -284.73406593406594]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.3934326171875, -8.026123046875, -6.2255859375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.29, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.151611328125, 0.022705078125, -0.9560546875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.87277167277168, 67.47252747252747, -283.8344322344322]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.5928955078125, -8.3465576171875, -5.9051513671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.26, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.15576171875, -0.02197265625, -0.95458984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.27301587301586, 65.07350427350427, -285.03394383394385]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.66046142578125, 1.13677978515625, -7.14111328125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.27, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.219970703125, 0.0595703125, -0.951171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 65.67326007326007, -283.23467643467643]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.13238525390625, 3.7841796875, -6.5155029296875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.26, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.256591796875, 0.021240234375, -1.084716796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.32258852258852, 65.82319902319902, -284.73406593406594]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.43975830078125, -5.68389892578125, -6.43157958984375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 13.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.25, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.202880859375, 0.078125, -0.95703125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 67.47252747252747, -285.6336996336996]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.1514892578125, -15.03753662109375, -6.61468505859375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.24, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.206787109375, 0.07275390625, -0.942626953125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.37338217338217, 65.37338217338217, -281.13553113553115]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.35693359375, -20.1263427734375, -5.25665283203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.4375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.25, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.224853515625, 0.08642578125, -1.019775390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.57167277167277, 62.82442002442002, -291.0315018315018]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.32476806640625, 1.51824951171875, -9.45281982421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.23, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.229248046875, -0.009033203125, -1.00048828125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.42295482295482, 63.873992673992674, -289.3821733821734]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.34710693359375, 5.66864013671875, -6.622314453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.23, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19287109375, 0.0, -0.958740234375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.87277167277168, 64.17387057387057, -288.63247863247864]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.5928955078125, 5.6304931640625, -6.81304931640625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.22, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.29296875, 0.040283203125, -1.046142578125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 63.57411477411477, -289.0822954822955]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.4168701171875, -3.997802734375, -5.5084228515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.65}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.21, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.14990234375, 0.020751953125, -0.94775390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.42295482295482, 66.42295482295482, -286.9831501831502]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.92913818359375, -9.796142578125, -4.69970703125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.21, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.187255859375, -0.0107421875, -0.94287109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.37338217338217, 64.92356532356533, -286.9831501831502]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.84356689453125, 3.12042236328125, -5.9814453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.21, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2138671875, 0.05029296875, -0.983154296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.57289377289376, 64.02393162393162, -287.43296703296704]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.64630126953125, -15.23590087890625, -7.72857666015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.65}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.46875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.2, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.181884765625, 0.011962890625, -0.91650390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-72.42051282051281, 63.12429792429792, -290.7316239316239]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.462646484375, 4.7454833984375, -6.06536865234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.21, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.244384765625, 0.02734375, -1.0322265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.12185592185592, 62.67448107448107, -288.48253968253965]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.326416015625, -13.2293701171875, -4.7760009765625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 13.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.19, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.25244140625, -0.002685546875, -0.942626953125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.52210012210011, 64.62368742368741, -288.3326007326007]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.53076171875, -1.80816650390625, -4.9591064453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 13.84375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.19, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.20703125, -0.088134765625, -1.017333984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.62246642246642, 63.724053724053725, -287.8827838827839]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.2266845703125, -11.5966796875, -7.9803466796875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.73}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.19, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.218994140625, 0.07861328125, -1.015625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.62246642246642, 65.82319902319902, -287.43296703296704]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.74493408203125, 2.28118896484375, -3.7994384765625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.81}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.18, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.145263671875, -0.01904296875, -0.884765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.07228327228327, 65.82319902319902, -285.78363858363855]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.94329833984375, -0.8392333984375, -5.7220458984375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.81}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 13.8125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.18, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.174560546875, 0.1181640625, -0.94873046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.62246642246642, 62.67448107448107, -287.43296703296704]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.92095947265625, -0.946044921875, -4.41741943359375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.19, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.214111328125, 0.103271484375, -0.9833984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.47252747252747, 65.37338217338217, -286.5333333333333]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.814697265625, -16.1895751953125, -5.89752197265625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.19, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.210205078125, -0.012451171875, -0.971923828125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.22222222222221, 64.17387057387057, -287.58290598290597]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.36236572265625, -6.1798095703125, -6.85882568359375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.18, 1007.23]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.16552734375, 0.140869140625, -0.94189453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.87277167277168, 64.92356532356533, -285.1838827838828]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.4849853515625, -14.44244384765625, -7.28607177734375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 13.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.17, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2587890625, 0.100341796875, -1.000732421875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.52332112332113, 64.47374847374847, -283.9843711843712]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.2174072265625, 2.69317626953125, -5.4168701171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.16, 1007.25]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19091796875, -0.011962890625, -0.954833984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-65.37338217338217, 64.92356532356533, -286.5333333333333]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.04248046875, -10.61248779296875, -7.9803466796875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 13.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.18, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1669921875, 0.129150390625, -1.02001953125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.27301587301586, 63.724053724053725, -283.9843711843712]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.02777099609375, -2.838134765625, -5.7525634765625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.17, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.18017578125, 0.06591796875, -1.03369140625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.32258852258852, 65.82319902319902, -285.78363858363855]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.18853759765625, -3.01361083984375, -8.04901123046875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.16, 1007.23]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.15234375, 0.00390625, -0.984130859375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.32258852258852, 64.47374847374847, -284.73406593406594]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.43865966796875, 2.55584716796875, -4.60052490234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.16, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.282958984375, 0.126953125, -1.05810546875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 64.17387057387057, -283.23467643467643]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.0201416015625, -14.32037353515625, -5.07354736328125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.16, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.185791015625, 0.05908203125, -0.96044921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.52210012210011, 65.67326007326007, -284.88400488400487]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.425048828125, 0.34332275390625, -6.8359375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.73}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.16, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.236328125, 0.04541015625, -0.994873046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.07228327228327, 63.724053724053725, -285.3338217338217]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.04248046875, -9.51385498046875, -6.3323974609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.81}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.15, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19287109375, 0.028564453125, -0.9287109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.12307692307692, 65.37338217338217, -285.6336996336996]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.5166015625, -4.791259765625, -6.29425048828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.73}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.14, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.20947265625, 0.0078125, -1.0380859375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.47252747252747, 65.67326007326007, -284.58412698412695]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.532958984375, -10.76507568359375, -5.53131103515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 14.5]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.14, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.156982421875, 0.076904296875, -0.92138671875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.12307692307692, 64.62368742368741, -285.1838827838828]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.6632080078125, 0.06866455078125, -5.21087646484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 14.4375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.13, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.226806640625, 0.0234375, -0.99560546875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.22222222222221, 63.873992673992674, -283.8344322344322]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.568359375, -8.56781005859375, -9.5062255859375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.12, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.171142578125, -0.01123046875, -1.019287109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.47252747252747, 66.42295482295482, -284.1343101343101]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.87518310546875, -4.49371337890625, -4.44793701171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.73}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 14.34375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.11, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.21728515625, 0.03076171875, -0.9931640625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.27301587301586, 64.02393162393162, -284.434188034188]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.0343017578125, -2.6702880859375, -4.39453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0625, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.1, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.213623046875, 0.02001953125, -0.95703125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.42295482295482, 65.97313797313797, -285.6336996336996]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.73785400390625, -3.33404541015625, -5.096435546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0625, 14.34375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.09, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.267578125, -0.003662109375, -1.05224609375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.47252747252747, 64.62368742368741, -285.6336996336996]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.32696533203125, -11.25335693359375, -5.9051513671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0625, 14.40625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.09, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.209228515625, -0.02392578125, -0.96142578125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.57289377289376, 65.07350427350427, -284.73406593406594]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.88824462890625, 1.76239013671875, -4.730224609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.73}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0625, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.08, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.279541015625, -0.017333984375, -1.030517578125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.87277167277168, 64.17387057387057, -285.1838827838828]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.4097900390625, -11.80267333984375, -7.25555419921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0625, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.07, 1007.34]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.226806640625, 0.08984375, -0.99365234375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.27301587301586, 64.77362637362637, -284.73406593406594]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.622314453125, 3.2958984375, -2.7008056640625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0625, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.05, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.17578125, 0.09326171875, -0.917724609375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.87277167277168, 64.17387057387057, -285.93357753357753]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.509521484375, -12.0391845703125, -7.50732421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.03125, 14.375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.03, 1007.21]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.240478515625, 0.166015625, -0.991943359375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.87277167277168, 65.97313797313797, -285.6336996336996]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.7291259765625, 1.3580322265625, -4.90570068359375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.03125, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.03, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.202880859375, -0.01220703125, -0.9482421875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 65.07350427350427, -286.3833943833944]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.33294677734375, 5.02777099609375, -7.71331787109375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.03125, 14.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.0, 1007.34]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.20361328125, 0.07470703125, -0.980224609375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 64.17387057387057, -286.9831501831502]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.25665283203125, -2.044677734375, -0.152587890625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.03125, 14.40625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.97, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.271240234375, 0.1015625, -1.039306640625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.92234432234432, 64.17387057387057, -284.88400488400487]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.5155029296875, -12.87078857421875, -6.34002685546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.73}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0, 14.34375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.97, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1962890625, -0.000732421875, -0.921142578125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 64.77362637362637, -284.434188034188]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.73675537109375, 4.08172607421875, -4.8065185546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.96, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.289306640625, 0.09814453125, -1.06640625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.47252747252747, 64.62368742368741, -286.23345543345545]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.204345703125, -8.30078125, -4.9591064453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.95, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.370361328125, 0.052978515625, -0.982177734375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.07228327228327, 66.27301587301586, -287.13308913308913]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.8299560546875, -5.31005859375, -5.4168701171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.94, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.172119140625, 0.08740234375, -0.998291015625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.07228327228327, 65.07350427350427, -286.3833943833944]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.87408447265625, 3.1280517578125, -6.40869140625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.96875, 14.3125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.93, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.241455078125, 0.12744140625, -0.961669921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.47252747252747, 65.67326007326007, -285.93357753357753]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.26593017578125, -10.986328125, -6.8359375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.81}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.96875, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.92, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2001953125, 0.155029296875, -0.966064453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 66.27301587301586, -283.9843711843712]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.9591064453125, -10.07080078125, -4.92095947265625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.96875, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.92, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.267578125, 0.0048828125, -0.953369140625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.87277167277168, 65.37338217338217, -285.1838827838828]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.35638427734375, -0.30517578125, -4.57000732421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.73}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.96875, 14.3125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.91, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.23388671875, 0.067626953125, -0.9658203125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.47252747252747, 65.97313797313797, -287.28302808302806]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.4920654296875, 4.23431396484375, -5.126953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.96875, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.9, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.238037109375, 0.02294921875, -1.0419921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.37216117216117, 65.52332112332113, -286.3833943833944]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.0811767578125, -9.39178466796875, -4.9896240234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.9375, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.91, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.18017578125, 0.0390625, -0.952392578125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.92234432234432, 64.62368742368741, -285.6336996336996]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.88226318359375, 1.10626220703125, -5.06591796875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.9375, 13.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.89, 1007.36]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2744140625, 0.0390625, -0.98779296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.52210012210011, 66.42295482295482, -287.58290598290597]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.4931640625, -12.02392578125, -5.28717041015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.9375, 14.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.86, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.216064453125, 0.025634765625, -0.941162109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.62246642246642, 64.02393162393162, -287.13308913308913]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.5765380859375, 3.04412841796875, -4.6539306640625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.9375, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.86, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.23583984375, -0.03857421875, -0.965087890625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.37216117216117, 66.27301587301586, -285.78363858363855]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.29534912109375, -0.96893310546875, -7.24029541015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.90625, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.86, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.14111328125, -0.033935546875, -0.96728515625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 66.42295482295482, -285.93357753357753]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.39508056640625, 0.72479248046875, -3.66973876953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.90625, 14.46875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.86, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.24169921875, -0.015625, -1.00830078125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.12185592185592, 64.47374847374847, -285.78363858363855]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.08062744140625, -7.1868896484375, -3.7384033203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.90625, 14.5625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.84, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.279052734375, 0.033203125, -0.9482421875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.32258852258852, 64.47374847374847, -286.08351648351646]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.79888916015625, -3.39508056640625, -5.05828857421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.875, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.86, 1007.36]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19970703125, 0.02783203125, -0.99951171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.32258852258852, 65.82319902319902, -285.78363858363855]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.9732666015625, 1.1749267578125, -5.0201416015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.875, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.84, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2373046875, 0.0673828125, -0.99560546875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.92234432234432, 62.37460317460317, -288.3326007326007]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.41796875, -12.87841796875, -2.61688232421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.875, 14.125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.83, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.258056640625, 0.123046875, -0.985595703125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.47252747252747, 65.67326007326007, -287.58290598290597]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.6915283203125, 4.3487548828125, -5.74493408203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.875, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.83, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.163818359375, 0.034423828125, -0.982177734375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.47252747252747, 65.97313797313797, -286.5333333333333]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.41741943359375, -7.293701171875, -6.04248046875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.875, 13.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.83, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.259033203125, 0.0634765625, -1.028076171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 64.47374847374847, -286.3833943833944]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.97491455078125, -8.91876220703125, -5.5389404296875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.84375, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.82, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.28173828125, 0.113037109375, -1.036865234375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.62246642246642, 64.77362637362637, -287.13308913308913]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.30242919921875, -1.9989013671875, -3.387451171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.84375, 14.3125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.82, 1007.38]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.121337890625, -0.139404296875, -0.96533203125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.87277167277168, 66.72283272283272, -283.8344322344322]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.6092529296875, -19.4854736328125, -4.1046142578125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.16}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.84375, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.81, 1007.37]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.234619140625, 0.02734375, -0.9794921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 65.97313797313797, -290.7316239316239]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.85882568359375, -3.35693359375, -6.64520263671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.84375, 14.40625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.82, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.218505859375, 0.078857421875, -1.005126953125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.12307692307692, 63.873992673992674, -291.0315018315018]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.42449951171875, -4.31060791015625, -5.6304931640625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.84375, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.82, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.194580078125, 0.100341796875, -0.96337890625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.92234432234432, 64.92356532356533, -287.28302808302806]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.13568115234375, -3.662109375, -5.39398193359375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.25}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.8125, 14.125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.82, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.262939453125, 0.06982421875, -0.942138671875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-71.52087912087912, 64.47374847374847, -296.42930402930403]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.64630126953125, -3.875732421875, -5.94329833984375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.41000000000000003}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.8125, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.82, 1007.37]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.226806640625, 0.09619140625, -0.951171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 64.62368742368741, -292.0810744810745]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.1727294921875, -5.4473876953125, -6.99615478515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.8125, 13.84375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.8, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.186279296875, 0.06005859375, -0.95556640625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.07228327228327, 65.07350427350427, -292.2310134310134]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.15692138671875, -5.72967529296875, -5.59234619140625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.41000000000000003}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.8125, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.8, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1904296875, 0.044189453125, -0.943115234375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.27179487179487, 62.82442002442002, -290.7316239316239]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.55474853515625, -5.59234619140625, -3.51715087890625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.25}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.8125, 13.84375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.78, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.14794921875, 0.032958984375, -1.010009765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.97191697191697, 64.17387057387057, -291.0315018315018]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.53131103515625, -5.3253173828125, -6.21795654296875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.8125, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.78, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1279296875, 0.015380859375, -0.861328125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.92234432234432, 64.17387057387057, -289.98192918192916]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.99560546875, 19.34051513671875, -5.6304931640625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.8125, 13.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.79, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2275390625, 0.0458984375, -0.951171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.07228327228327, 64.77362637362637, -291.6312576312576]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.080078125, -4.17327880859375, -5.92803955078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.8125, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.78, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.213134765625, 0.0205078125, -1.005615234375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.27179487179487, 64.92356532356533, -289.68205128205125]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.04302978515625, -4.8828125, -5.94329833984375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.25}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.78125, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.77, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.23095703125, 0.082763671875, -0.9814453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.27179487179487, 65.37338217338217, -289.98192918192916]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.5084228515625, -5.45501708984375, -4.64630126953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.78125, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.76, 1007.34]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.22216796875, 0.0595703125, -0.986328125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.07228327228327, 67.32258852258852, -292.68083028083026]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.5400390625, -4.8980712890625, -6.15692138671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.78125, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.77, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.227294921875, 0.0751953125, -0.94677734375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.12185592185592, 62.97435897435897, -291.6312576312576]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.94329833984375, -3.2501220703125, -2.93731689453125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.78125, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.76, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.241455078125, -0.01708984375, -0.986572265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.82197802197803, 64.02393162393162, -289.83199023199023]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.950927734375, -4.23431396484375, -6.5460205078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.78125, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.75, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2294921875, 0.025390625, -0.98193359375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.87155067155066, 65.07350427350427, -291.6312576312576]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.53131103515625, -2.49481201171875, -6.59942626953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.65}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.78125, 13.8125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.74, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.252197265625, 0.015869140625, -0.9873046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.52210012210011, 63.873992673992674, -291.48131868131867]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.99615478515625, -2.63214111328125, -4.63104248046875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.78125, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.74, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2001953125, 0.043701171875, -0.93212890625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.27179487179487, 63.57411477411477, -290.431746031746]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.8980712890625, -4.669189453125, -5.42449951171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.78125, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.75, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.217529296875, 0.056884765625, -0.988525390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.57167277167277, 65.97313797313797, -290.431746031746]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.241943359375, -4.913330078125, -5.3558349609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.78125, 13.90625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.75, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.166748046875, 0.15625, -0.93017578125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.92234432234432, 66.42295482295482, -289.68205128205125]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.8980712890625, -12.15362548828125, -5.34820556640625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.75, 14.125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.74, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.203857421875, 0.0234375, -0.988525390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.47252747252747, 66.72283272283272, -290.7316239316239]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.11932373046875, -3.1890869140625, -5.16510009765625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.75, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.73, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.299072265625, -0.039306640625, -0.97509765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.37216117216117, 64.47374847374847, -288.1826617826618]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.39996337890625, 4.8675537109375, -1.0986328125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.75, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.74, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.158935546875, 0.026611328125, -0.869384765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.27301587301586, 67.62246642246642, -292.68083028083026]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.026123046875, 1.85394287109375, -19.1497802734375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.75, 13.84375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.71, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.17578125, 0.06201171875, -0.97265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-52.47863247863248, 59.07594627594627, -315.77142857142854]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [13.458251953125, -5.18798828125, -46.53167724609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.75, 13.90625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.71, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.23193359375, 0.019287109375, -0.97705078125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-79.46764346764347, 60.87521367521367, -308.12454212454213]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.67681884765625, -4.6539306640625, -6.27899169921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.75, 13.84375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.7, 1007.37]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.182861328125, 0.070068359375, -1.0732421875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.27179487179487, 61.02515262515262, -294.4800976800977]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.1727294921875, -4.50897216796875, -4.33349609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.71875, 13.8125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.7, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.162109375, -0.0185546875, -0.986083984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-81.86666666666666, 71.52087912087912, -366.3008547008547]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.2337646484375, -3.4332275390625, -3.7841796875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.71875, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.69, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.21728515625, -0.024169921875, -0.986083984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.46520146520146, 69.12185592185592, -366.75067155067154]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.82232666015625, -3.74603271484375, -5.07354736328125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.71875, 13.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.69, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.185791015625, -0.004150390625, -0.994873046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.61636141636141, 70.17142857142856, -366.3008547008547]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.76837158203125, -4.852294921875, -6.50787353515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.71875, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.68, 1007.36]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2578125, -0.028076171875, -0.989013671875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.26568986568986, 70.02148962148962, -365.85103785103786]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.01251220703125, -3.90625, -6.5155029296875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.71875, 13.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.68, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.151611328125, -0.027587890625, -0.962158203125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.66593406593407, 69.72161172161172, -366.3008547008547]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.6915283203125, -5.37872314453125, -5.859375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.6875, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.67, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.245849609375, -0.001220703125, -0.96875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.36605616605617, 71.22100122100122, -364.65152625152626]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.5013427734375, -5.5084228515625, -6.1492919921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.6875, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.66, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.237548828125, 0.004150390625, -0.962646484375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.01660561660562, 72.42051282051281, -367.5003663003663]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.45501708984375, -4.45556640625, -4.72259521484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.6875, 14.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.66, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2119140625, -0.0185546875, -0.964111328125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.81587301587301, 70.02148962148962, -366.1509157509157]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.51605224609375, -3.68499755859375, -4.47845458984375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.6875, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.67, 1007.4]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.265625, 0.00244140625, -0.98828125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.26568986568986, 70.32136752136752, -365.85103785103786]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.53131103515625, -5.28717041015625, -4.67681884765625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.6875, 13.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.65, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1904296875, -0.055908203125, -0.972412109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.96581196581197, 71.22100122100122, -365.7010989010989]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.7220458984375, -4.67681884765625, -5.523681640625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.65625, 13.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.66, 1007.39]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.258544921875, 0.024169921875, -1.0029296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.4156288156288, 71.52087912087912, -365.25128205128203]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.14166259765625, -5.615234375, -5.0201416015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.65625, 13.65625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.64, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.232177734375, -0.053466796875, -0.98681640625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.01538461538462, 72.57045177045177, -368.10012210012206]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.974365234375, -3.204345703125, -6.79779052734375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.65625, 13.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.64, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.244140625, -0.015380859375, -0.980712890625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.31648351648352, 70.47130647130646, -366.75067155067154]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.6539306640625, -5.91278076171875, -5.0048828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.625, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.63, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.185302734375, -0.02490234375, -0.95654296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.76630036630036, 71.37094017094017, -366.90061050061047]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.14166259765625, -3.31878662109375, -7.48443603515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.625, 14.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.64, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19189453125, 0.040283203125, -1.00341796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.46642246642246, 70.32136752136752, -365.40122100122096]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.126953125, -2.13623046875, -4.2724609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.625, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.62, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2080078125, 0.021484375, -0.971923828125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.51599511599511, 68.52210012210011, -366.4507936507936]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.0201416015625, -2.7923583984375, -5.42449951171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.625, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.62, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.213623046875, 0.052490234375, -0.976806640625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.81587301587301, 71.37094017094017, -366.4507936507936]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.54656982421875, -3.47137451171875, -5.1727294921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.59375, 14.40625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.61, 1007.36]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1708984375, 0.010986328125, -0.995361328125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.56556776556776, 70.02148962148962, -366.90061050061047]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.5623779296875, -2.96783447265625, -6.53076171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.59375, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.6, 1007.38]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.15380859375, -0.04296875, -0.99658203125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.06617826617827, 70.62124542124542, -365.85103785103786]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.86700439453125, -3.814697265625, -6.7291259765625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.59375, 14.125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.6, 1007.36]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.188720703125, -0.043701171875, -1.00341796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.7155067155067, 71.22100122100122, -367.05054945054945]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.0364990234375, -4.4403076171875, -5.55419921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.5625, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.59, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.159912109375, -0.0859375, -0.99169921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.96581196581197, 70.47130647130646, -366.3008547008547]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.523681640625, -2.89154052734375, -6.37054443359375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.5625, 13.625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.59, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.12646484375, -0.00927734375, -0.988525390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.01538461538462, 67.92234432234432, -367.6503052503052]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.23321533203125, -5.8441162109375, -6.9427490234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.5625, 13.625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.56, 1007.36]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.112548828125, -0.015380859375, -0.9794921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.4156288156288, 70.17142857142856, -366.0009768009768]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.7607421875, -2.2735595703125, -6.591796875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.5625, 13.65625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.57, 1007.34]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.184814453125, -0.023193359375, -0.996337890625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.06617826617827, 70.02148962148962, -365.40122100122096]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.44793701171875, -5.3558349609375, -6.4697265625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.53125, 13.8125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.56, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.194580078125, -0.0146484375, -0.9384765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.01538461538462, 70.77118437118438, -366.75067155067154]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.8441162109375, -4.2266845703125, -5.6915283203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.53125, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.54, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.22021484375, 0.04541015625, -1.00439453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.01538461538462, 69.72161172161172, -367.05054945054945]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.7454833984375, -3.72314453125, -6.96563720703125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.53125, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.54, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.13671875, 0.0048828125, -1.005859375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.06617826617827, 69.27179487179487, -367.5003663003663]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.86700439453125, -4.41741943359375, -4.8828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.53125, 14.03125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.54, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.237060546875, -0.006103515625, -0.951904296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.86544566544566, 70.62124542124542, -367.95018315018314]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.279541015625, -3.50189208984375, -5.05828857421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.5, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.53, 1007.34]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.239013671875, 0.038330078125, -0.972412109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.4156288156288, 70.17142857142856, -368.10012210012206]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.43975830078125, -3.2806396484375, -6.0272216796875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.5, 13.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.53, 1007.37]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.192138671875, 0.00830078125, -0.97705078125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.4156288156288, 69.42173382173382, -368.4]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.6092529296875, -2.44140625, -5.21087646484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.5, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.53, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.186767578125, -0.030029296875, -0.98974609375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.06617826617827, 70.62124542124542, -368.25006105006105]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.8370361328125, -5.07354736328125, -4.35638427734375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.5, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.51, 1007.36]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.156982421875, -0.028564453125, -0.974609375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.7155067155067, 72.57045177045177, -368.10012210012206]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.79180908203125, -3.01361083984375, -4.03594970703125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.5, 13.5625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.51, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.228271484375, -0.05078125, -0.97509765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.31648351648352, 69.12185592185592, -367.6503052503052]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.63104248046875, -5.24139404296875, -5.25665283203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.46875, 13.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.51, 1007.34]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.169189453125, -0.028564453125, -0.959716796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-81.71672771672772, 71.07106227106227, -368.8498168498168]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.87518310546875, -3.1280517578125, -5.0201416015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.46875, 13.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.5, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.180419921875, -0.02880859375, -0.973876953125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.7155067155067, 70.47130647130646, -368.4]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.36346435546875, -4.14276123046875, -6.28662109375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.46875, 13.5625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.5, 1007.37]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2080078125, -0.048583984375, -0.947509765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.36605616605617, 70.17142857142856, -367.6503052503052]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.08172607421875, -3.91387939453125, -5.706787109375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.46875, 14.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.49, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.203857421875, -0.009521484375, -0.959228515625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.66593406593407, 69.72161172161172, -368.10012210012206]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.18798828125, -3.34930419921875, -4.2724609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.46875, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.47, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.203857421875, -0.039306640625, -1.000244140625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.91623931623931, 68.67203907203907, -367.6503052503052]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.02777099609375, -3.73077392578125, -4.638671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.4375, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.47, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.180908203125, 0.005859375, -1.010009765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.06617826617827, 68.82197802197803, -368.54993894993896]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.14166259765625, -2.95257568359375, -6.05010986328125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.4375, 13.78125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.48, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19970703125, -0.033447265625, -0.981201171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.36605616605617, 70.17142857142856, -368.6998778998779]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.02777099609375, -4.1656494140625, -4.70733642578125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.4375, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.47, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.190185546875, -0.01513671875, -0.9794921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.4156288156288, 69.12185592185592, -368.4]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.60760498046875, -4.08935546875, -6.16455078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.4375, 13.75]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.45, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.193603515625, -0.04052734375, -0.969970703125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.36605616605617, 70.17142857142856, -369.14969474969473]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.730224609375, -2.83050537109375, -5.79071044921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.4375, 13.65625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.45, 1007.34]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.184814453125, -0.069580078125, -0.963134765625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.36605616605617, 69.72161172161172, -369.44957264957264]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.40216064453125, -3.6468505859375, -6.5460205078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.40625, 13.65625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.45, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1875, 0.038818359375, -0.986572265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.96581196581197, 69.72161172161172, -367.05054945054945]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.62286376953125, -3.44085693359375, -5.43212890625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.40625, 13.90625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.45, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.168701171875, -0.018310546875, -0.9814453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.06617826617827, 70.32136752136752, -369.5995115995116]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.95147705078125, -3.0975341796875, -5.08880615234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.40625, 14.09375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.44, 1007.36]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.255615234375, -0.021484375, -0.9775390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.31526251526252, 70.62124542124542, -368.8498168498168]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.08880615234375, -5.16510009765625, -5.706787109375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.40625, 14.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.44, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.176025390625, -0.006103515625, -0.982666015625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.51599511599511, 68.52210012210011, -368.54993894993896]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.5084228515625, -4.4708251953125, -6.2103271484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.375, 14.34375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.42, 1007.37]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.22119140625, -0.07177734375, -0.951171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.46520146520146, 70.47130647130646, -368.4]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.2724609375, -3.4027099609375, -4.608154296875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.375, 13.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.42, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.193603515625, -0.036865234375, -0.988037109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.91623931623931, 69.12185592185592, -368.6998778998779]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.53076171875, -2.471923828125, -6.18743896484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.375, 13.84375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.41, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.136474609375, -0.012451171875, -0.97314453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.91623931623931, 67.92234432234432, -367.3504273504273]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.354736328125, -4.12750244140625, -5.279541015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.375, 13.84375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.4, 1007.37]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.17724609375, -0.016845703125, -0.97607421875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.56556776556776, 68.52210012210011, -369.29963369963366]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.753662109375, -3.59344482421875, -5.53131103515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.34375, 13.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.38, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.27099609375, -0.050537109375, -1.001708984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-80.81709401709402, 71.22100122100122, -369.74945054945056]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.615234375, -4.7607421875, -4.38690185546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.34375, 13.84375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.39, 1007.37]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.194580078125, -0.0556640625, -0.96337890625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.96581196581197, 69.72161172161172, -369.74945054945056]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.18798828125, -5.9814453125, -6.40869140625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.34375, 13.75]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.37, 1007.37]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.215576171875, -0.04931640625, -0.970703125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.51599511599511, 68.52210012210011, -369.5995115995116]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.56182861328125, -4.4403076171875, -5.51605224609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.34375, 13.8125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.38, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.184814453125, -0.016357421875, -0.97314453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.26568986568986, 70.02148962148962, -367.5003663003663]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.24139404296875, -2.99835205078125, -5.92803955078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.3125, 13.53125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.35, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.197998046875, -0.09716796875, -0.959228515625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.86544566544566, 69.57167277167277, -370.3492063492063]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.01959228515625, -3.08990478515625, -4.26483154296875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.3125, 13.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.35, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2041015625, -0.02001953125, -0.978515625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.46520146520146, 71.22100122100122, -370.79902319902317]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.94384765625, -4.37164306640625, -4.50897216796875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.3125, 13.46875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.34, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.205810546875, -0.053955078125, -0.98681640625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.06617826617827, 70.02148962148962, -368.54993894993896]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.13458251953125, -2.838134765625, -4.3182373046875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.3125, 13.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.34, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.200927734375, 0.01318359375, -0.97265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.7155067155067, 70.17142857142856, -369.14969474969473]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.852294921875, -4.37164306640625, -5.31768798828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.28125, 14.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.32, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.156982421875, 0.00634765625, -0.970703125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.96581196581197, 69.72161172161172, -370.79902319902317]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.62994384765625, -2.960205078125, -4.69207763671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.28125, 13.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.33, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.17822265625, -0.078125, -0.96630859375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.81587301587301, 69.27179487179487, -369.29963369963366]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.88934326171875, -4.6234130859375, -5.80596923828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.28125, 13.53125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.31, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.248779296875, -0.054931640625, -1.009033203125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.86544566544566, 68.82197802197803, -368.8498168498168]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.134033203125, -4.28009033203125, -5.9051513671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.28125, 13.5]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.3, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.172119140625, -0.038330078125, -0.988037109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.7155067155067, 68.67203907203907, -369.44957264957264]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.52313232421875, -5.28717041015625, -7.6141357421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.25, 13.65625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.3, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.208251953125, -0.03515625, -0.991943359375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.31526251526252, 68.22222222222221, -369.8993894993895]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.74383544921875, -7.40814208984375, -7.99560546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.25, 13.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.29, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.112060546875, -0.029296875, -0.989990234375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.36605616605617, 69.72161172161172, -369.74945054945056]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.4462890625, -6.0882568359375, -9.52911376953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.25, 13.625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.29, 1007.34]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1650390625, 0.010986328125, -0.96728515625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.36605616605617, 69.12185592185592, -368.6998778998779]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.36236572265625, -3.86810302734375, -4.76837158203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.21875, 13.46875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.27, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.21875, -0.048095703125, -0.95458984375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.01538461538462, 67.62246642246642, -370.79902319902317]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.04302978515625, -4.49371337890625, -7.9498291015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.21875, 13.78125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.26, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.17626953125, -0.067138671875, -0.98828125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.01538461538462, 68.67203907203907, -370.0493284493284]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.04248046875, -5.40924072265625, -9.52911376953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.21875, 13.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.27, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.211181640625, -0.025146484375, -0.966796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.61514041514042, 68.82197802197803, -370.94896214896215]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.56292724609375, -5.096435546875, -6.65283203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.4375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.26, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.174560546875, -0.018310546875, -0.952880859375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.01538461538462, 69.12185592185592, -369.74945054945056]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.74493408203125, -5.462646484375, -7.6446533203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.25, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.22265625, -0.017822265625, -0.995361328125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.36605616605617, 69.42173382173382, -369.74945054945056]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.486083984375, -8.30078125, -4.8828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.5]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.26, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.23876953125, -0.108642578125, -0.9912109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.91623931623931, 69.42173382173382, -372.14847374847375]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.561279296875, -5.5084228515625, -8.70513916015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.24, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.182861328125, -0.031982421875, -1.00830078125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.96581196581197, 68.37216117216117, -371.0989010989011]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.05010986328125, -5.02777099609375, -7.38525390625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.40625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.24, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.17919921875, -0.0244140625, -0.97607421875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.86544566544566, 67.77240537240537, -370.3492063492063]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.7607421875, -2.46429443359375, -2.960205078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.3125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.23, 1007.25]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.18994140625, -0.0107421875, -0.963623046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.51599511599511, 67.02271062271062, -370.64908424908424]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.56072998046875, -6.4697265625, -8.09478759765625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.40625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.23, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.17626953125, 0.00830078125, -0.997314453125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.26568986568986, 67.77240537240537, -370.94896214896215]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.60870361328125, -4.913330078125, -2.87628173828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.22, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1865234375, 0.035400390625, -0.972412109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-86.21489621489621, 71.22100122100122, -372.8981684981685]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.84356689453125, -6.9122314453125, -8.087158203125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.4375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.23, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.183837890625, -0.035888671875, -0.967529296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.96581196581197, 67.32258852258852, -373.49792429792427]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.53948974609375, -4.50897216796875, -4.70733642578125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.4375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.23, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.23095703125, -0.042236328125, -0.98193359375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.4156288156288, 66.87277167277168, -373.49792429792427]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.31005859375, -5.2032470703125, -4.5318603515625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.1875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.22, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.208251953125, -0.03466796875, -1.00341796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-83.96581196581197, 67.92234432234432, -370.79902319902317]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.09588623046875, -6.30950927734375, -7.50732421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.22, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.14013671875, -0.059326171875, -0.95654296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.7155067155067, 68.67203907203907, -369.74945054945056]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.65283203125, -3.68499755859375, -8.270263671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.22, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2490234375, 0.01123046875, -0.990966796875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.4156288156288, 65.52332112332113, -370.79902319902317]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.57708740234375, -5.523681640625, -7.5531005859375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.5625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.22, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.225830078125, -0.044677734375, -0.979736328125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-84.7155067155067, 68.37216117216117, -370.4991452991453]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.40106201171875, -5.63812255859375, -6.29425048828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.5]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.22, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.3212890625, -0.109619140625, -1.212158203125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-82.91623931623931, 67.92234432234432, -373.19804639804636]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.38800048828125, 14.38140869140625, -4.21142578125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.65625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.21, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19287109375, -0.023193359375, -0.9912109375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.91501831501832, 65.97313797313797, -372.7482295482295]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.9520263671875, 5.68389892578125, -7.85064697265625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.21, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.30712890625, 0.301025390625, -0.9775390625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-85.31526251526252, 65.67326007326007, -372.7482295482295]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.88006591796875, -21.66748046875, -36.2701416015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.1875, 13.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.22, 1007.24]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.02734375, -0.30419921875, -1.330322265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-74.36971916971916, 72.27057387057387, -331.2151404151404]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-2.95257568359375, 53.8787841796875, -16.6473388671875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.15625, 12.5625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.22, 1007.33]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.911865234375, -1.032470703125, -0.215576171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-80.21733821733821, 57.87643467643468, -322.06886446886443]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [16.66259765625, -23.3917236328125, -52.2613525390625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.15625, 12.84375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.2, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.122314453125, -0.2119140625, -1.229736328125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-79.76752136752137, 76.16898656898657, -325.96727716727713]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-18.73779296875, -49.20196533203125, 8.6517333984375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.15625, 13.28125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.22, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.36572265625, -0.545654296875, 0.2294921875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-64.32380952380952, 72.12063492063491, -362.7023199023199]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [28.3660888671875, -18.8446044921875, -35.72845458984375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.15625, 13.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.22, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.20361328125, 0.247314453125, -0.59423828125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-64.17387057387057, 67.92234432234432, -295.07985347985345]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [12.939453125, -25.3753662109375, -13.12255859375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.53}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.15625, 12.78125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.21, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2763671875, 0.392333984375, -0.97998046875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-55.77728937728938, 77.51843711843712, -305.87545787545787]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [22.88055419921875, -28.83148193359375, -14.923095703125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.53}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.15625, 13.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.21, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.16552734375, 0.353271484375, -0.7353515625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-39.28400488400488, 72.57045177045177, -337.06275946275946]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [35.430908203125, 53.59649658203125, 1.46484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 9.17}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.15625, 13.9375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.21, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.151123046875, 0.443115234375, -0.8447265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-43.03247863247863, 72.42051282051281, -300.7775335775336]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.42724609375, 79.64324951171875, -6.16455078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 17.76}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.125, 13.8125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.2, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.216796875, 0.000244140625, -1.279052734375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-37.18485958485958, 68.67203907203907, -294.03028083028084]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [18.79119873046875, -26.3824462890625, -7.17926025390625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.85}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.09375, 14.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.2, 1007.25]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.200439453125, 0.00537109375, -0.9296875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-61.32503052503052, 53.97802197802198, -305.425641025641]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.19342041015625, 36.07940673828125, -8.14056396484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.09375, 15.65625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.2, 1007.35]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.47216796875, -0.02392578125, -0.315673828125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-63.42417582417582, 61.624908424908426, -300.6275946275946]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [21.44622802734375, -6.27899169921875, -25.0091552734375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.0625, 13.90625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.2, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.67138671875, -0.65283203125, -1.7001953125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.17264957264958, 59.22588522588522, -302.1269841269841]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-57.0068359375, 100.79193115234375, -8.96453857421875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.0625, 12.34375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.19, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.01220703125, 0.01806640625, -0.494140625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-69.42173382173382, 60.87521367521367, -301.97704517704517]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-4.08172607421875, 1.54876708984375, -28.35845947265625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.0625, 13.0625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.18, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.038818359375, 0.091552734375, -1.002685546875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-64.32380952380952, 73.47008547008546, -378.1460317460317]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [31.15081787109375, -41.90826416015625, -33.02001953125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.0625, 12.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.16, 1007.29]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.26611328125, 0.135986328125, -1.255615234375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-60.57533577533577, 71.52087912087912, -322.2188034188034]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-21.6827392578125, -10.589599609375, -7.39288330078125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.0625, 13.34375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.17, 1007.28]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.5009765625, 0.273681640625, -1.17626953125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-60.425396825396824, 76.31892551892551, -313.07252747252744]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [13.4735107421875, -1.27410888671875, -19.00482177734375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 2.09}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.03125, 12.875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.17, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.873046875, 0.4453125, -1.30322265625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-62.224664224664224, 76.01904761904761, -291.0315018315018]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.34112548828125, 94.81048583984375, -4.45556640625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 2.17}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.0625, 12.71875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.16, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.76025390625, 0.2783203125, -1.746826171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-49.479853479853475, 80.96703296703296, -322.8185592185592]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-15.3045654296875, -189.9261474609375, -15.12908935546875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 15.200000000000001}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.03125, 14.625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.14, 1007.22]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.21484375, -0.064453125, -0.967041015625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-50.52942612942613, 64.17387057387057, -314.57191697191695]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [22.30072021484375, 53.52020263671875, -17.9290771484375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 4.26}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.03125, 12.46875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.14, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.140380859375, -0.34716796875, -1.40576171875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-59.52576312576312, 62.224664224664224, -304.9758241758242]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.86810302734375, 62.64495849609375, -7.9193115234375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.0, 19.4375]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.14, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.115966796875, -0.045654296875, -1.1630859375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-86.51477411477411, 64.77362637362637, -311.573137973138]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-3.997802734375, -42.64068603515625, -0.92315673828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [17.96875, 14.78125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.13, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.7412109375, -0.834228515625, -1.210205078125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-63.27423687423687, 48.88009768009768, -319.66984126984124]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-4.90570068359375, 38.14697265625, -21.67510986328125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [17.9375, 14.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.13, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.2783203125, -0.31982421875, -1.226318359375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-64.02393162393162, 47.83052503052503, -319.96971916971916]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [13.61083984375, -54.77142333984375, -7.14111328125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [17.90625, 12.625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.13, 1007.36]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.463623046875, 0.02978515625, -0.85107421875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-72.42051282051281, 81.71672771672772, -351.7567765567766]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.9405517578125, -10.589599609375, -1.12152099609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [17.9375, 11.8125]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.11, 1007.32]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.329833984375, 0.03515625, -0.882568359375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-67.02271062271062, 60.425396825396824, -276.0376068376068]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.43975830078125, -3.88336181640625, -6.378173828125]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [17.9375, 11.96875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.12, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.201416015625, -0.054443359375, -0.933349609375]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-73.62002442002442, 34.93577533577533, -281.435409035409]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.119873046875, -6.4849853515625, -4.81414794921875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [17.96875, 12.15625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.1, 1007.26]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19580078125, 0.001220703125, -0.95263671875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-72.72039072039071, 35.835409035409036, -279.9360195360195]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.73785400390625, -1.3580322265625, -5.279541015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [17.96875, 12.21875]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.1, 1007.3]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.257080078125, 0.078369140625, -0.946533203125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-73.32014652014652, 34.78583638583638, -282.6349206349206]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.88824462890625, -0.946044921875, -5.40924072265625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.36}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [17.96875, 12.25]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.1, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.22216796875, -0.053955078125, -0.987060546875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-71.37094017094017, 37.03492063492063, -281.13553113553115]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.080078125, -1.0986328125, -5.91278076171875]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.36}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [17.96875, 13.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.1, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.08154296875, 0.161865234375, -0.541015625]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-58.176312576312576, 79.46764346764347, -307.3748473748474]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.33892822265625, 7.8125, 9.82666015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [17.96875, 13.0]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.09, 1007.31]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.185791015625, -0.138427734375, -0.91845703125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-58.326251526251525, 79.16776556776557, -307.2249084249084]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [35.46142578125, 100.30364990234375, -15.05279541015625]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.0, 12.5]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.08, 1007.27]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.809326171875, -0.11181640625, -1.563232421875]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-68.97191697191697, 77.81831501831502, -301.37728937728934]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.84466552734375, -4.7454833984375, -25.8636474609375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.61}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.0, 12.625]}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.09, 1007.22]}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.349853515625, -0.67578125, -0.725830078125]}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [-66.12307692307692, 79.16776556776557, -281.13553113553115]}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.8604736328125, -3.387451171875, -18.4173583984375]}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.53}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.03125, 12.625]}
