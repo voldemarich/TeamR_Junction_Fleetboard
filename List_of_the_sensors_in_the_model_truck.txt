@@ -1,0 +1,22 @@
+There are 2 sensor devices installed in the truck: a TI SensorTag at the front bottom and an Android smartphone in the trailer. 
+Details are as below:
+
+Data from Texas Instruments SensorTag (CC2650):
+sensortag/TEMPERATURE : Returns 2 values (ambient_temp, target_temp) in degC
+sensortag/BAROMETER: Returns 2 values (ambient_temp, pressure_millibars)
+sensortag/ACCELEROMETER: Returns 3 values (x_accel, y_accel, z_accel) in units of g
+sensortag/MAGNETOMETER: Returns 3 values (x, y, z) in uT units
+sensortag/GYROSCOPE: Returns 3 values (x,y,z) rate in deg/sec
+sensortag/LIGHT: Returns 1 value in lux
+General Information: http://processors.wiki.ti.com/index.php/SensorTag_User_Guide#IR_Temperature_Sensor
+
+
+Data from Android Sensors:
+Android/ACCELEROMETER
+Android/GEOMAGNETIC_ROTATION_VECTOR
+Android/LIGHT
+Android/ROTATION_VECTOR
+Android/GYROSCOPE
+Android/GRAVITY
+General Information: https://developer.android.com/guide/topics/sensors/sensors_position.html
+And https://developer.android.com/guide/topics/sensors/sensors_environment.html
