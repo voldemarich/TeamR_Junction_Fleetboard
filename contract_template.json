@@ -1,0 +1,11 @@
+[
+  {"type": ["liquid", "solid", "gas", "particles", "hazardous"]},
+  {"weight": "kg"},
+  {"dimensions": ["x", "y", "z"]},
+  {"starting_point": ["lat", "long"]},
+  {"destination": ["lat", "long"]},
+  {"distance": "km"},
+  {"petrol": "litres"},
+  {"permissible_stress": ["coffee_spill", "glass_break", "steel_bend"]}
+  {"price": "eur"}
+]
