@@ -1,0 +1,13 @@
+{
+  "name": "teamr-junction-fleetboard",
+  "version": "1.0.0",
+  "description": "Junction 2017 Fleetboard app",
+  "author": "Dmitry Golovin <dima@golovin.in>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
