@@ -12,6 +12,7 @@ input[type="submit"] {
 	color: #ffffff;
 	line-height: 25px;
 	padding: 5px;
+	margin-top: 10px;
 }
 input[type="button"]:hover,
 input[type="submit"]:hover {
@@ -46,4 +47,35 @@ html, body {
 }
 .required_empty {
 	border: 1px solid #ff1f0f;
+}
+#ordersTable {
+	font-size: 13px;
+	border: 1px solid #e9e9e9;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+#orderTable th {
+	font-weight: bold;
+}
+.orderTr {
+	width: 100%;
+}
+#ordersTable tr:nth-child(odd) {
+	background-color: #e9e9e9;
+}
+.strongViolation {
+	background-color: #ffcccc;
+}
+.mildViolation {
+	background-color: #ffd1b3;
+}
+.orderTr td, #ordersTable th {
+	text-align: center;
+	border: 1px solid #e9e9e9;
+	padding: 5px;
+	width: 120px;
+}
+.orderTr td:first-child:hover {
+	text-decoration: underline;
+	cursor: pointer;
 }

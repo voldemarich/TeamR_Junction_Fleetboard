@@ -8,6 +8,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Barlow+Condensed|Open+Sans" rel="stylesheet">
 		<script type="text/javascript" src="assets/scripts/MooTools-Core-1.6.0.js"></script>
 		<script type="text/javascript" src="assets/scripts/LocalStorage.js"></script>
+		<script type="text/javascript" src="assets/scripts/simple-modal.js"></script>
 		<script type="text/javascript" src="assets/scripts/client/ordersTable.js"></script>
 	</head>
 	<body>
@@ -19,7 +20,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-3">
+				<div class="col-md-2">
 					<div class="menu">
 						<div class="menuItem basic">
 							<a href="sample_page.html"><i class="material-icons">library_books</i><div class="menuHeader">Orders</div></a>
@@ -32,12 +33,29 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-9">
-					<div class="row">
-						<div class="col-md-8">
-							<div id="ordersTable"></div>
-						</div>
-					</div>
+				<div class="col-md-10">
+					<table id="ordersTable">
+						<tr>
+							<th>Order number</th>
+							<th>Product type</th>
+							<th>Volume (m³)</th>
+							<th>Weight (kg)</th>
+							<th>Distance (km)</th>
+							<th>Temperature (°C)</th>
+							<th>Shake level</th>
+							<th>Special conditions</th>
+						</tr>
+						<tr class="orderTr">
+							<td>O47498654</td>
+							<td>Product type</td>
+							<td>Volume (m³)</td>
+							<td>Weight (kg)</td>
+							<td>Distance (km)</td>
+							<td>Temperature (°C)</td>
+							<td>Shake level</td>
+							<td>Special conditions</td>
+						</tr>
+					</table>
 				</div>
 			</div>
 		</div>

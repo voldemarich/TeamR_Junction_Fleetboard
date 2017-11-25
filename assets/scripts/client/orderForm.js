@@ -1,4 +1,6 @@
 window.addEvent('domready', function() {
+	var server = "http://130.233.85.30:3000";
+	var autocomplete, autocomplete2;
 	var orderForm = document.getElement('#orderForm');
 	if (orderForm) {
 		var prod = enableProduct(orderForm);
@@ -23,11 +25,52 @@ window.addEvent('domready', function() {
 		
 	}
 
+      // Bias the autocomplete object to the user's geographical location,
+      // as supplied by the browser's 'navigator.geolocation' object.
+      function geolocate() {
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(function(position) {
+            var geolocation = {
+              lat: position.coords.latitude,
+              lng: position.coords.longitude
+            };
+            var circle = new google.maps.Circle({
+              center: geolocation,
+              radius: position.coords.accuracy
+            });
+            autocomplete.setBounds(circle.getBounds());
+          });
+        }
+      }
+      function geolocate2() {
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(function(position) {
+            var geolocation = {
+              lat: position.coords.latitude,
+              lng: position.coords.longitude
+            };
+            var circle = new google.maps.Circle({
+              center: geolocation,
+              radius: position.coords.accuracy
+            });
+            autocomplete2.setBounds(circle.getBounds());
+          });
+        }
+      }
+      function calculate() {
+          fetch('https://maps.googleapis.com/maps/api/distancematrix/json?origins=' + $$('[data-name="sendFrom"]')[0].get('value') + '&destinations=' + $$('[data-name="sendTo"]')[0].get('value') + '&key=AIzaSyAXdmrACW6NAQ5vWAwUdDv1nZOGGoTTIPk')
+        .then(res => res.json())
+        .then((out) => {
+            $$('[data-name="travelDistance"]')[0].set('value', out.rows[0].elements[0].distance.value/1000);
+            // $$('[data-name="travelTime"]')[0]("time").set('value', ) = out.rows[0].elements[0].duration.value;
+            $$('[data-name="petrol"]')[0].set('value', 0.000395 * parseFloat(out.rows[0].elements[0].distance.value));
+    }).catch(err => console.error(err));
+
+        //console.log();
+      }
 	document.addEvent('click:relay(#orderCalcCosts)', function() {
-		var distance = Number.random(50, 600);
-		var petrol = distance * 7 / 100;
-		var theseCosts = this.getParent('calculatedCosts');
-		if (!theseCosts) { return; }
+		calculate();
+		$$('.calculatedCosts').removeClass('hidden');
 	})
 	document.addEvent('change:relay(input[required][data-name])', function() {
 		var s = this.get('value');
@@ -56,11 +99,11 @@ window.addEvent('domready', function() {
 		var parent = this.getParent('.orderFieldText');
 		if (!parent) { return; }
 		if (val == "other") {
-			var inp = parent.getElement('[data-name="'+this.get('data-select')+'"]');
+			var inp = parent.getElement('[data-name-noselect="'+this.get('data-select')+'"]');
 			if (!inp) { return; }
 			inp.removeClass('hidden');
 		} else {
-			var inp = parent.getElement('[data-name="'+this.get('data-select')+'"]');
+			var inp = parent.getElement('[data-name-noselect="'+this.get('data-select')+'"]');
 			if (!inp) { return; }
 			if (!inp.hasClass('hidden')) {
 				inp.addClass('hidden');
@@ -119,5 +162,57 @@ window.addEvent('domready', function() {
 		var formDelivery = document.getElement('#orderDeliveryTermsForm');
 		if (!formDelivery) { return; }
 		formDelivery.removeClass('hidden');
+	})
+
+	var submitButton = $$('[data-submit-order]')[0];
+	submitButton.addEvent('click', function() {
+		var ls = new LocalStorage();
+		var auth = ls.get('Authorization');
+		if (!auth) { return; }
+		var products = [];
+		var prods = $$('.product:not([data-prod-clone])');
+		prods.each(function(prod) {
+			var prodObj = {};
+			var inputs = prod.getElements('[data-name]');
+			var selects = prod.getElements('[data-select]');
+			inputs.each(function(inp) {
+				var name = inp.get('data-name');
+				if (name) {
+					prodObj[name] = inp.get('value');
+				}
+			});
+			if (prodObj.x && prodObj.y && prodObj.z) {
+				prodObj.volume = prodObj.x * prodObj.y * prodObj.z;
+				delete prodObj.x;
+				delete prodObj.y;
+				delete prodObj.z;
+			}
+			selects.each(function(sel) {
+				var sname = sel.get('data-select');
+				if (sname) {
+					var val = sel.getSelected()[0].get('value');
+					if (val == "other") {
+						val = prod.getElement('[data-name-noselect="'+sname+'"]').get('value');
+					}
+					prodObj[sname] = val;
+				}
+			})
+			prodObj["temperature"] = "10";
+			prodObj["distance"] = $$('[data-name="travelDistance"]')[0].get('value');
+			prodObj["petrol"] = $$('[data-name="petrol"]')[0].get('value');
+			products.push(prodObj);
+		})
+		new Request.JSON({
+			url: server+"/orders",
+			headers: {"Authorization": auth },
+			onSuccess: function(data) {
+				if (data && data.error) {
+					alert(data.error);
+				}
+			},
+			onError: function(data) {
+				alert(data.error);
+			}
+		}).post({orders: products});
 	})
 })
