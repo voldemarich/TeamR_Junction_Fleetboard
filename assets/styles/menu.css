@@ -1,0 +1,23 @@
+.menu {
+	color: #2C6700;
+}
+.menuItem i {
+	margin-right: 10px;
+	float: left;
+}
+.menuItem {
+	vertical-align: middle;
+	overflow: hidden;
+	padding: 5px;
+}
+.menuItem:hover {
+	background-color: #e9e9e9;
+	cursor: pointer;
+}
+.menuHeader {
+	float: left;
+}
+.menu a {
+	display: block;
+	width: 100%;
+}

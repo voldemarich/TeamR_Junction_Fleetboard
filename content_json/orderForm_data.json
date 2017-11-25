@@ -1,0 +1,19 @@
+[
+	{
+		"product_fields": {
+			"type": ["liquid", "solid", "gas", "particles", "hazardous"],
+			"weight": "kg",
+			"dimensions": ["x", "y", "z"],
+			"permissible_stress": ["coffee_spill", "glass_break", "steel_bend"],
+			"price": "eur"
+		}
+	},
+	{
+		"order_fields": {
+			"starting_point": ["lat", "long"],
+			"destination": ["lat", "long"],
+			"distance": "km",
+			"petrol": "litres"
+		}
+	}
+]

@@ -1,0 +1,30 @@
+.product {
+	width: 100%;
+	margin-bottom:10px;
+}
+.orderFieldBlock {
+	float: left;
+	display: inline-block;
+	margin-right: 25px;
+	margin-bottom: 10px;
+}
+.orderFieldRow {
+	display: block;
+	overflow: hidden;
+	width: 100%;
+}
+.orderFieldHeader {
+	font-weight: bold;
+	font-size: 15px;
+}
+.orderFieldHeader::after {
+	content:':';
+}
+.orderFormControls {
+	display: block;
+}
+.hr_separator {
+	border: 0.5px solid #2C6700;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}

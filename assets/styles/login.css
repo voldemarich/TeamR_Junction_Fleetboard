@@ -1,0 +1,15 @@
+.loginField {
+	display: block;
+	margin-bottom: 10px;
+	width: 50%;
+}
+.loginFieldText {
+	font-weight: bold;
+	font-size: 15px;
+}
+.loginFieldText::after {
+	content:':';
+}
+#loginForm {
+	text-align: center;
+}

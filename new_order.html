@@ -1,0 +1,155 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+		<link rel="stylesheet" href="assets/styles/orderForm.css">
+		<link rel="stylesheet" href="assets/styles/general.css">
+		<link rel="stylesheet" href="assets/styles/menu.css">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Barlow+Condensed|Open+Sans" rel="stylesheet">
+		<script type="text/javascript" src="assets/scripts/MooTools-Core-1.6.0.js"></script>
+		<script type="text/javascript" src="assets/scripts/client/orderForm.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row headerRow">
+				<div class="col-md-3"></div>
+				<div class="col-md-9">
+					<h1 class="pageHeader">Sample orderpage for client</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<div class="menu">
+						<div class="menuItem basic">
+							<i class="material-icons">library_books</i><div class="menuHeader">Orders</div>
+						</div>
+						<div class="menuItem basic">
+							<a href="new_order.html"><i class="material-icons">library_books</i><div class="menuHeader">New order</div></a>
+						</div>
+						<div class="menuItem basic">
+							<a href="sample_charts.html"><i class="material-icons">timeline</i><div class="menuHeader">Statistics</div></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-9">
+					<div class="row">
+						<div class="col-md-8">
+							<form id="orderForm">
+								<div class="product hidden" data-prod-clone>
+									<div class="orderFieldRow">
+										<div class="orderFieldBlock">
+											<div class="orderFieldHeader">Product name</div>
+											<div class="orderFieldText">
+												<input type="text" data-name="productName" class="basicInput" placeholder="Enter product name" required />
+											</div>
+										</div>
+										<div class="orderFieldBlock">
+											<div class="orderFieldHeader">Product type</div>
+											<div class="orderFieldText">
+												<select data-select="productType" class="basicInput" data-required>
+													<option value="liquid">Liquid</option>
+													<option value="solid">Solid</option>
+													<option value="gas">Gas</option>
+													<option value="particles">Particles</option>
+													<option value="hazardous">Hazardous</option>
+													<option value="other">Other (specify)...</option>
+												</select>
+												<input type="text" data-name="productType" class="basicInput hidden" placeholder="Product type" />
+											</div>
+										</div>
+									</div>
+									<div class="orderFieldRow">
+										<div class="orderFieldBlock">
+											<div class="orderFieldHeader">Weight</div>
+											<div class="orderFieldText">
+												<input data-name="weight" type="number" class="basicInput" placeholder="0.00" />
+											</div>
+										</div>
+										<div class="orderFieldBlock">
+											<div class="orderFieldHeader">Permissible stress</div>
+											<div class="orderFieldText">
+												<select data-select="permissible_stress" class="basicInput" >
+													<option value="default">None</option>
+													<option value="coffee_spill">Coffee spill</option>
+													<option value="glass_break">Glass break</option>
+													<option value="steel_bend">Steel bend</option>
+												</select>
+											</div>
+										</div>
+									</div>
+									<div class="orderFieldRow">
+										<div class="orderFieldBlock">
+											<div class="orderFieldHeader">Dimensions</div>
+											<div class="orderFieldText">
+												<input data-name="x" type="text" class="basicInput" placeholder="Enter x" />
+												<input data-name="y" type="text" class="basicInput" placeholder="Enter y" />
+												<input data-name="z" type="text" class="basicInput" placeholder="Enter z" />
+											</div>
+										</div>
+										<div class="orderFieldBlock">
+											<div class="orderFieldHeader">Price (EUR)</div>
+											<div class="orderFieldText">
+												<input type="text" class="basicInput" placeholder="0.00" required />
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="orderFormControls">
+									<input type="button" value="Add new product" data-new-product />
+									<input type="button" value="Next" data-next />
+								</div>
+							</form>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-8">
+							<form id="orderDeliveryTermsForm" class="hidden">
+								<div class="orderFieldRow">
+									<div class="orderFieldBlock">
+										<div class="orderFieldHeader">Send from</div>
+										<div class="orderFieldText">
+											<input data-name="sendFrom" type="text" class="basicInput" required readonly />
+										</div>
+									</div>
+									<div class="orderFieldBlock">
+										<div class="orderFieldHeader">Send to</div>
+										<div class="orderFieldText">
+											<input data-name="sendTo" type="text" class="basicInput" required readonly />
+										</div>
+									</div>
+								</div>
+								<div class="orderFieldRow">
+									<div class="orderFieldBlock">
+										<div class="orderFieldHeader">Delivery date at latest</div>
+										<div class="orderFieldText">
+											<input data-name="deliveryLatest" type="date" class="basicInput" required />
+										</div>
+									</div>
+								</div>
+								<div class="orderDeliveryFormControls">
+									<input type="button" value="Calculate costs" id="orderCalcCosts" />
+									<div class="calculatedCosts hidden">
+										<div class="orderFieldRow">
+											<div class="orderFieldBlock">
+												<div class="orderFieldHeader">Distance (km)</div>
+												<div class="orderFieldText">
+													<input data-name="travelDistance" type="number" class="basicInput" required readonly />
+												</div>
+											</div>
+											<div class="orderFieldBlock">
+												<div class="orderFieldHeader">Petrol (litres)</div>
+												<div class="orderFieldText">
+													<input data-name="petrol" type="number" class="basicInput" required readonly />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

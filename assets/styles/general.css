@@ -1,0 +1,49 @@
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Barlow Condensed', sans-serif;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+input[type="button"],
+input[type="submit"] {
+	background-color: #2C6700;
+	border: 1px solid #2C6700;
+	border-radius: 2px;
+	color: #ffffff;
+	line-height: 25px;
+	padding: 5px;
+}
+input[type="button"]:hover,
+input[type="submit"]:hover {
+	cursor: pointer;
+	background-color: #1f9a1e;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="password"],
+input[type="date"],
+select {
+	border-radius: 2px;
+	line-height: 25px;
+	text-indent: 5px;
+	padding:2px;
+	margin-top:10px;
+	width: 160px;
+}
+html, body {
+	margin: 0;
+}
+.headerRow {
+	padding: 25px;
+}
+.hidden {
+	visibility: hidden;
+	display: none;
+}
+.basicInput {
+	border: 1px solid #e9e9e9;
+}
+.required_empty {
+	border: 1px solid #ff1f0f;
+}

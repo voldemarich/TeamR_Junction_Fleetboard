@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+		<link rel="stylesheet" href="assets/styles/general.css">
+		<link rel="stylesheet" href="assets/styles/menu.css">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Barlow+Condensed|Open+Sans" rel="stylesheet">
+		<script type="text/javascript" src="assets/scripts/MooTools-Core-1.6.0.js"></script>
+		<script type="text/javascript" src="assets/scripts/client/orderCharts.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row headerRow">
+				<div class="col-md-3"></div>
+				<div class="col-md-9">
+					<h1 class="pageHeader">Sample charts for client</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<div class="menu">
+						<div class="menuItem basic">
+							<a href="sample_page.html"><i class="material-icons">library_books</i><div class="menuHeader">Orders</div></a>
+						</div>
+						<div class="menuItem basic">
+							<a href="new_order.html"><i class="material-icons">library_books</i><div class="menuHeader">New order</div></a>
+						</div>
+						<div class="menuItem basic">
+							<i class="material-icons">timeline</i><div class="menuHeader">Statistics</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-9">
+					<div class="row">
+						<div class="col-md-8">
+							<div id="allGraphs">
+								<div data-dashboard="temperature">
+									<div data-filter="number"></div>
+									<div data-chart="temperature"></div>
+								</div>
+								<div data-dashboard="light">
+									<div data-filter="number"></div>
+									<div data-chart="light"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
