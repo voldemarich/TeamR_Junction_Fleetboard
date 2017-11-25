@@ -1,0 +1,33 @@
+table {
+text-align: center;
+border-collapse: collapse;
+width: 100%;
+table-layout: fixed;
+font-family: monospace;
+}
+th {
+font-weight: bold;
+}
+.sub {
+font-size: 0.8em;
+}
+td {
+font-size: 0.58vw;
+overflow: hidden;
+width: 6.5vw;
+}
+.data td {
+border: solid silver 1px;
+}
+div {
+height: 280px;
+}
+.green {
+color: green;
+}
+.red {
+color: red;
+}
+.black {
+color: black;
+}

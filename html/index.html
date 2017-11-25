@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>truck</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/paho-mqtt/1.0.1/mqttws31.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script>
+    var temp1 = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+      type: 'scatter'
+    };
+    var temp2 = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15],
+      type: 'scatter'
+    };
+    var temp3 = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+      type: 'scatter'
+    };
+    var temp_data = [temp1, temp2, temp3];
+    var press = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000],
+      type: 'scatter'
+    };
+    var press_data = [press];
+    var light = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3],
+      type: 'scatter'
+    };
+    var light_data = [light];
+    var bat = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80],
+      type: 'scatter'
+    };
+    var bat_data = [bat];
+    
+    var acc_x = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+      type: 'scatter'
+    };
+    var acc_y = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15],
+      type: 'scatter'
+    };
+    var acc_z = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+      type: 'scatter'
+    };
+    var acc_data = [acc_x, acc_y, acc_z];
+    var mag_x = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+      type: 'scatter'
+    };
+    var mag_y = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15],
+      type: 'scatter'
+    };
+    var mag_z = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+      type: 'scatter'
+    };
+    var mag_data = [mag_x, mag_y, mag_z];
+    var gyr_x = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+      type: 'scatter'
+    };
+    var gyr_y = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15],
+      type: 'scatter'
+    };
+    var gyr_z = {
+      x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      y: [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+      type: 'scatter'
+    };
+    var gyr_data = [gyr_x, gyr_y, gyr_z];
+
+function set_data(data) { // gk
+  var container = data.sensorType.charAt(0).toLowerCase();
+  $("[id^=d]").text("");
+  switch (data.valueLength) {
+    case 1:
+      $("#d" + container).text($("#" + container).text() - data.values);
+      if (parseFloat($("#d" + container).text()) > 0) {
+        $("#d" + container).text("+" + $("#d" + container).text()); $("#d" + container).attr("class", "green"); }
+      else if (parseFloat($("#d" + container).text()) < 0) { $("#d" + container).attr("class", "red"); }
+      else { $("#d" + container).attr("class", "black"); }
+      $("#" + container).text(data.values);
+      break;
+    case 2:
+      $("#d" + container + "a").text($("#" + container + "a").text() - data.values[0]);
+      if (parseFloat($("#d" + container + "a").text()) > 0) {
+        $("#d" + container + "a").text("+" + $("#d" + container + "a").text()); $("#d" + container + "a").attr("class", "green"); }
+      else if (parseFloat($("#d" + container + "a").text()) < 0) { $("#d" + container + "a").attr("class", "red"); }
+      else { $("#d" + container + "a").attr("class", "black"); }
+      $("#" + container + "a").text(data.values[0]);
+      $("#d" + container + "b").text($("#" + container + "b").text() - data.values[1]);
+      if (parseFloat($("#d" + container + "b").text()) > 0) {
+        $("#d" + container + "b").text("+" + $("#d" + container + "b").text()); $("#d" + container + "b").attr("class", "green"); }
+      else if (parseFloat($("#d" + container + "b").text()) < 0) { $("#d" + container + "b").attr("class", "red"); }
+      else { $("#d" + container + "b").attr("class", "black"); }
+      $("#" + container + "b").text(data.values[1]);
+      break;
+    case 3:
+      $("#d" + container + "x").text($("#" + container + "x").text() - data.values[0]);
+      if (parseFloat($("#d" + container + "x").text()) > 0) {
+        $("#d" + container + "x").text("+" + $("#d" + container + "x").text()); $("#d" + container + "x").attr("class", "green"); }
+      else if (parseFloat($("#d" + container + "x").text()) < 0) { $("#d" + container + "x").attr("class", "red"); }
+      else { $("#d" + container + "x").attr("class", "black"); }
+      $("#" + container + "x").text(data.values[0]);
+      $("#d" + container + "y").text($("#" + container + "y").text() - data.values[1]);
+      if (parseFloat($("#d" + container + "y").text()) > 0) {
+        $("#d" + container + "y").text("+" + $("#d" + container + "y").text()); $("#d" + container + "y").attr("class", "green"); }
+      else if (parseFloat($("#d" + container + "y").text()) < 0) { $("#d" + container + "y").attr("class", "red"); }
+      else { $("#d" + container + "y").attr("class", "black"); }
+      $("#" + container + "y").text(data.values[1]);
+      $("#d" + container + "z").text($("#" + container + "z").text() - data.values[2]);
+      if (parseFloat($("#d" + container + "z").text()) > 0) {
+        $("#d" + container + "z").text("+" + $("#d" + container + "z").text()); $("#d" + container + "z").attr("class", "green"); }
+      else if (parseFloat($("#d" + container + "z").text()) < 0) { $("#d" + container + "z").attr("class", "red"); }
+      else { $("#d" + container + "z").attr("class", "black"); }
+      $("#" + container + "z").text(data.values[2]);
+      break;
+  }
+  switch (data.sensorType) {
+    case "TEMPERATURE":
+      temp_data[0].y.shift();
+      temp_data[0].y.push(parseFloat($("#" + container + "a").text()));
+      temp_data[1].y.shift();
+      temp_data[1].y.push(parseFloat($("#" + container + "b").text()));
+      Plotly.redraw('temp');
+      break;
+    case "BAROMETER":
+      temp_data[2].y.shift();
+      temp_data[2].y.push(parseFloat($("#" + container + "a").text()));
+      Plotly.redraw('temp');
+      press_data[0].y.shift();
+      press_data[0].y.push(parseFloat($("#" + container + "b").text()));
+      Plotly.redraw('press');
+      break;
+    case "ACCELEROMETER":
+      acc_data[0].y.shift();
+      acc_data[0].y.push(parseFloat($("#" + container + "x").text()));
+      acc_data[1].y.shift();
+      acc_data[1].y.push(parseFloat($("#" + container + "y").text()));
+      acc_data[2].y.shift();
+      acc_data[2].y.push(parseFloat($("#" + container + "z").text()));
+      Plotly.redraw('acc');
+      break;
+    case "MAGNETOMETER":
+      mag_data[0].y.shift();
+      mag_data[0].y.push(parseFloat($("#" + container + "x").text()));
+      mag_data[1].y.shift();
+      mag_data[1].y.push(parseFloat($("#" + container + "y").text()));
+      mag_data[2].y.shift();
+      mag_data[2].y.push(parseFloat($("#" + container + "z").text()));
+      Plotly.redraw('mag');
+      break;
+    case "GYROSCOPE":
+      gyr_data[0].y.shift();
+      gyr_data[0].y.push(parseFloat($("#" + container + "x").text()));
+      gyr_data[1].y.shift();
+      gyr_data[1].y.push(parseFloat($("#" + container + "y").text()));
+      gyr_data[2].y.shift();
+      gyr_data[2].y.push(parseFloat($("#" + container + "z").text()));
+      Plotly.redraw('gyr');
+      break;
+    case "LIGHT":
+      light_data[0].y.shift();
+      light_data[0].y.push(parseFloat($("#" + container).text()));
+      Plotly.redraw('light');
+      break;
+    case "BATTERY":
+      bat_data[0].y.shift();
+      bat_data[0].y.push(parseFloat($("#" + container).text()));
+      Plotly.redraw('bat');
+      break;
+  }
+}
+function plot() {
+    Plotly.newPlot('temp', temp_data, {showlegend: false, margin: {t: 0, l: 0, r: 0, b: 0}}, {displayModeBar: false});
+    Plotly.newPlot('press', press_data, {showlegend: false, margin: {t: 0, l: 0, r: 0, b: 0}}, {displayModeBar: false});
+    Plotly.newPlot('light', light_data, {showlegend: false, margin: {t: 0, l: 0, r: 0, b: 0}}, {displayModeBar: false});
+    Plotly.newPlot('bat', bat_data, {showlegend: false, margin: {t: 0, l: 0, r: 0, b: 0}}, {displayModeBar: false});
+    Plotly.newPlot('acc', acc_data, {showlegend: false, margin: {t: 0, l: 0, r: 0, b: 0}}, {displayModeBar: false});
+    Plotly.newPlot('mag', mag_data, {showlegend: false, margin: {t: 0, l: 0, r: 0, b: 0}}, {displayModeBar: false});
+    Plotly.newPlot('gyr', gyr_data, {showlegend: false, margin: {t: 0, l: 0, r: 0, b: 0}}, {displayModeBar: false});
+}
+$(function() {
+var wsbroker = "localhost";
+var wsport = 8080;
+var client = new Paho.MQTT.Client(wsbroker, wsport, "client_" + parseInt(Math.random() * 100, 10));
+client.onConnectionLost = function (responseObject) {
+  console.log("connection lost: " + responseObject.errorMessage);
+};
+client.onMessageArrived = function (message) {
+  set_data(JSON.parse(message.payloadString));
+};
+var options = {
+  timeout: 3,
+  onSuccess: function () {
+    console.log("mqtt connected");
+    client.subscribe('#', {qos: 1});
+  },
+  onFailure: function (message) {
+    console.log("Connection failed: " + message.errorMessage);
+  }
+};
+client.connect(options);
+plot();
+});
+</script>
+</head>
+<body>
+
+<table>
+    <tr>
+        <th colspan="2">TEMPERATURE</th>
+        <th colspan="2">BAROMETER</th>
+        <th colspan="3">ACCELEROMETER</th>
+        <th colspan="3">MAGNETOMETER</th>
+        <th colspan="3">GYROSCOPE</th>
+        <th rowspan="2">LIGHT</th>
+        <th rowspan="2">BATTERY</th>
+    </tr>
+    <tr class="sub">
+        <th>ambient</th>
+        <th>target</th>
+        <th>ambient</th>
+        <th>pressure</th>
+        <th>x</th>
+        <th>y</th>
+        <th>z</th>
+        <th>x</th>
+        <th>y</th>
+        <th>z</th>
+        <th>x</th>
+        <th>y</th>
+        <th>z</th>
+    </tr>
+    <tr class="data">
+        <td id="ta"></td>
+        <td id="tb"></td>
+        <td id="ba"></td>
+        <td id="bb"></td>
+        <td id="ax"></td>
+        <td id="ay"></td>
+        <td id="az"></td>
+        <td id="mx"></td>
+        <td id="my"></td>
+        <td id="mz"></td>
+        <td id="gx"></td>
+        <td id="gy"></td>
+        <td id="gz"></td>
+        <td id="l"></td>
+        <td id="b"></td>
+    </tr>
+    <tr>
+        <td id="dta"></td>
+        <td id="dtb"></td>
+        <td id="dba"></td>
+        <td id="dbb"></td>
+        <td id="dax"></td>
+        <td id="day"></td>
+        <td id="daz"></td>
+        <td id="dmx"></td>
+        <td id="dmy"></td>
+        <td id="dmz"></td>
+        <td id="dgx"></td>
+        <td id="dgy"></td>
+        <td id="dgz"></td>
+        <td id="dl"></td>
+        <td id="db"></td>
+    </tr>
+    <tr>
+        <td colspan="4"><div id="temp"></div><div id="press"></div></td>
+        <td colspan="3"><div id="dacc"></div><div id="acc"></div></td>
+        <td colspan="3"><div id="dmag"></div><div id="mag"></div></td>
+        <td colspan="3"><div id="dgyr"></div><div id="gyr"></div></td>
+        <td colspan="2"><div id="light"></div><div id="bat"></div></td>
+    </tr>
+</table>
+</body>
+</html>
