@@ -1,7 +1,7 @@
 .loginField {
 	display: block;
 	margin-bottom: 10px;
-	width: 50%;
+	width: 100%;
 }
 .loginFieldText {
 	font-weight: bold;
@@ -11,5 +11,10 @@
 	content:':';
 }
 #loginForm {
+	text-align: left;
+	width: 50%;
+	display: inline-block;
+}
+.center {
 	text-align: center;
 }

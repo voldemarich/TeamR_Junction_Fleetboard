@@ -5,13 +5,19 @@ window.addEvent('domready', function() {
 	var ls = new LocalStorage();
 
 	loginButton.addEvent('click', function() {
-		var username = $$('[name="username"]')[0].get('value');
-		var password = $$('[name="password"]')[0].get('value');
+		var usernameInput = $$('[name="username"]')[0];
+		var username = usernameInput.get('value');
+		var passwordInput = $$('[name="password"]')[0];
+		var password = passwordInput.get('value');
 		new Request.JSON({
 			url: server+'/login',
 			onSuccess: function(data) {
 				if (data && data.token) {
 					ls.set('Authorization', data.token);
+					window.location.href = "profile_info.html";
+				} else {
+					usernameInput.addClass('required_empty');
+					passwordInput.addClass('required_empty');
 				}
 			},
 			onError: function(data) {

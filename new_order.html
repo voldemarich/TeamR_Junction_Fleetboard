@@ -8,6 +8,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Barlow+Condensed|Open+Sans" rel="stylesheet">
 		<script type="text/javascript" src="assets/scripts/MooTools-Core-1.6.0.js"></script>
 		<script type="text/javascript" src="assets/scripts/LocalStorage.js"></script>
+		<script src="https://www.w3schools.com/lib/w3.js"></script>
 		<script type="text/javascript" src="assets/scripts/client/orderForm.js"></script>
 		<script type="text/javascript">
 			function initAutocomplete() {
@@ -25,7 +26,7 @@
 			<div class="row headerRow">
 				<div class="col-md-3"></div>
 				<div class="col-md-9">
-					<h1 class="pageHeader">Sample orderpage for client</h1>
+					<h1 class="pageHeader">New order</h1>
 				</div>
 			</div>
 			<div class="row">
@@ -35,10 +36,13 @@
 							<a href="sample_page.html"><i class="material-icons">library_books</i><div class="menuHeader">Orders</div></a>
 						</div>
 						<div class="menuItem basic">
-							<a href="new_order.html"><i class="material-icons">library_books</i><div class="menuHeader">New order</div></a>
+							<a href="new_order.html"><i class="material-icons">add_box</i><div class="menuHeader">New Order</div></a>
 						</div>
 						<div class="menuItem basic">
 							<a href="sample_charts.html"><i class="material-icons">timeline</i><div class="menuHeader">Statistics</div></a>
+						</div>
+						<div class="menuItem basic">
+							<a href="profile_info.html"><i class="material-icons"><i class="material-icons">perm_identity</i></i><div class="menuHeader">My profile</div></a>
 						</div>
 					</div>
 				</div>
@@ -73,7 +77,7 @@
 										<div class="orderFieldBlock">
 											<div class="orderFieldHeader">Weight</div>
 											<div class="orderFieldText">
-												<input data-name="weight" type="number" class="basicInput" placeholder="0.00" />
+												<input data-name="weight" type="number" class="basicInput" placeholder="0.00" required />
 											</div>
 										</div>
 										<div class="orderFieldBlock">
@@ -81,10 +85,10 @@
 											<div class="orderFieldText">
 												<select data-select="shake_level" class="basicInput" >
 													<option value="no_importance">Not important</option>
-													<option value="moderate">Fragile</option>
-													<option value="low">Glass break</option>
-													<option value="fragile">Steel bend</option>
-													<option value="ideal">Steel bend</option>
+													<option value="moderate">Moderate</option>
+													<option value="low">Low</option>
+													<option value="fragile">Fragile</option>
+													<option value="ideal">Highest risk</option>
 												</select>
 											</div>
 										</div>
@@ -93,15 +97,15 @@
 										<div class="orderFieldBlock">
 											<div class="orderFieldHeader">Dimensions</div>
 											<div class="orderFieldText">
-												<input data-name="x" type="text" class="basicInput" placeholder="Enter x" />
-												<input data-name="y" type="text" class="basicInput" placeholder="Enter y" />
-												<input data-name="z" type="text" class="basicInput" placeholder="Enter z" />
+												<input required data-name="x" type="text" class="basicInput" placeholder="Enter x" />
+												<input required data-name="y" type="text" class="basicInput" placeholder="Enter y" />
+												<input required data-name="z" type="text" class="basicInput" placeholder="Enter z" />
 											</div>
 										</div>
 										<div class="orderFieldBlock">
 											<div class="orderFieldHeader">Special conditions</div>
 											<div class="orderFieldText">
-												<input type="text" data-name="goods_special" class="basicInput" placeholder="Special conditions" required />
+												<input type="text" data-name="goods_special" class="basicInput" placeholder="Special conditions" />
 											</div>
 										</div>
 									</div>

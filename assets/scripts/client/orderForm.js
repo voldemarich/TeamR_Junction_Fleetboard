@@ -77,12 +77,24 @@ window.addEvent('domready', function() {
 		var cond = !s || s == "";
 		toggleValid(!cond, this);
 	})
+	document.addEvent('click:relay([data-delete])', function() {
+		var parent = this.getParent('.product');
+		var hr_separator = parent.getPrevious('hr');
+		hr_separator.dispose();
+		parent.dispose();
+	})
 	document.addEvent('click:relay([data-new-product])', function() {
 		var form = this.getParent('form');
 		if (!form) { alert('Error. Reload the page and try again'); return; }
 		var prod = form.getElement('.product');
 		if (!prod) { alert('Error. Reload the page and try again'); return; }
 		var new_prod = enableProduct(form);
+		var delete_prod = new Element('input', {
+			'type': 'button',
+			'data-delete': '1',
+			'value': 'Remove product'
+		});
+		new_prod.grab(delete_prod);
 		var hr = new Element('hr', {
 			'class': 'hr_separator'
 		})

@@ -24,6 +24,7 @@ input[type="text"],
 input[type="number"],
 input[type="password"],
 input[type="date"],
+textarea,
 select {
 	border-radius: 2px;
 	line-height: 25px;
@@ -67,7 +68,7 @@ html, body {
 	background-color: #ffcccc;
 }
 .mildViolation {
-	background-color: #ffd1b3;
+	background-color: #ffeb99;
 }
 .orderTr td, #ordersTable th {
 	text-align: center;

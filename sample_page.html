@@ -1,14 +1,13 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-		<link rel="stylesheet" href="assets/styles/orderForm.css">
 		<link rel="stylesheet" href="assets/styles/general.css">
 		<link rel="stylesheet" href="assets/styles/menu.css">
+		<link rel="stylesheet" href="assets/styles/modal.css">
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Barlow+Condensed|Open+Sans" rel="stylesheet">
 		<script type="text/javascript" src="assets/scripts/MooTools-Core-1.6.0.js"></script>
 		<script type="text/javascript" src="assets/scripts/LocalStorage.js"></script>
-		<script type="text/javascript" src="assets/scripts/simple-modal.js"></script>
 		<script type="text/javascript" src="assets/scripts/client/ordersTable.js"></script>
 	</head>
 	<body>
@@ -26,10 +25,13 @@
 							<a href="sample_page.html"><i class="material-icons">library_books</i><div class="menuHeader">Orders</div></a>
 						</div>
 						<div class="menuItem basic">
-							<a href="new_order.html"><i class="material-icons">library_books</i><div class="menuHeader">New Order</div></a>
+							<a href="new_order.html"><i class="material-icons">add_box</i><div class="menuHeader">New Order</div></a>
 						</div>
 						<div class="menuItem basic">
 							<a href="sample_charts.html"><i class="material-icons">timeline</i><div class="menuHeader">Statistics</div></a>
+						</div>
+						<div class="menuItem basic">
+							<a href="profile_info.html"><i class="material-icons"><i class="material-icons">perm_identity</i></i><div class="menuHeader">My profile</div></a>
 						</div>
 					</div>
 				</div>
@@ -45,17 +47,11 @@
 							<th>Shake level</th>
 							<th>Special conditions</th>
 						</tr>
-						<tr class="orderTr">
-							<td>O47498654</td>
-							<td>Product type</td>
-							<td>Volume (m³)</td>
-							<td>Weight (kg)</td>
-							<td>Distance (km)</td>
-							<td>Temperature (°C)</td>
-							<td>Shake level</td>
-							<td>Special conditions</td>
-						</tr>
 					</table>
+					<div id="myModal" class="modal">
+					  <div class="modal-content">
+					  </div>
+					</div>
 				</div>
 			</div>
 		</div>

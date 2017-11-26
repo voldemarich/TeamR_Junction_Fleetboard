@@ -1,0 +1,90 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+		<link rel="stylesheet" href="assets/styles/general.css">
+		<link rel="stylesheet" href="assets/styles/orderForm.css">
+		<link rel="stylesheet" href="assets/styles/menu.css">
+		<link rel="stylesheet" href="assets/styles/modal.css">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Barlow+Condensed|Open+Sans" rel="stylesheet">
+		<script type="text/javascript" src="assets/scripts/MooTools-Core-1.6.0.js"></script>
+		<script type="text/javascript" src="assets/scripts/LocalStorage.js"></script>
+		<script type="text/javascript" src="assets/scripts/client/profile_info.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row headerRow">
+				<div class="col-md-3"></div>
+				<div class="col-md-9">
+					<h1 class="pageHeader">My profile</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2">
+					<div class="menu">
+						<div class="menuItem basic">
+							<a href="sample_page.html"><i class="material-icons">library_books</i><div class="menuHeader">Orders</div></a>
+						</div>
+						<div class="menuItem basic">
+							<a href="new_order.html"><i class="material-icons">add_box</i><div class="menuHeader">New Order</div></a>
+						</div>
+						<div class="menuItem basic">
+							<a href="sample_charts.html"><i class="material-icons">timeline</i><div class="menuHeader">Statistics</div></a>
+						</div>
+						<div class="menuItem basic">
+							<a href="profile_info.html"><i class="material-icons"><i class="material-icons">perm_identity</i></i><div class="menuHeader">My profile</div></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-10">
+					<form id="profileForm">
+							<div class="orderFieldRow">
+								<div class="orderFieldBlock">
+									<div class="orderFieldHeader">First name</div>
+									<div class="orderFieldText">
+										<input type="text" data-name="fname" class="basicInput" placeholder="First name" required />
+									</div>
+								</div>
+								<div class="orderFieldBlock">
+									<div class="orderFieldHeader">Last name</div>
+									<div class="orderFieldText">
+										<input type="text" data-name="lname" class="basicInput" placeholder="Last name" required />
+									</div>
+								</div>
+								<div class="orderFieldBlock">
+									<div class="orderFieldHeader">Is a company</div>
+									<div class="orderFieldText">
+										<select data-select="company_client" class="basicInput" data-required>
+											<option value="1">Yes</option>
+											<option value="0">No</option>
+										</select>
+									</div>
+								</div>
+							</div>
+							<div class="orderFieldRow">
+								<div class="orderFieldBlock">
+									<div class="orderFieldHeader">Username</div>
+									<div class="orderFieldText">
+										<input data-name="username" type="text" class="basicInput" placeholder="username" required />
+									</div>
+								</div>
+								<div class="orderFieldBlock">
+									<div class="orderFieldHeader">Password</div>
+									<div class="orderFieldText">
+										<input data-name="password" type="password" class="basicInput" placeholder="password" required />
+									</div>
+								</div>
+							</div>
+						<div class="userFormControls">
+							<input type="button" value="Save" data-save />
+						</div>
+					</form>
+					<div id="myModal" class="modal">
+					    <div class="modal-content">
+					    </div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
